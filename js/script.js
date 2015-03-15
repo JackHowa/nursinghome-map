@@ -39,7 +39,6 @@ L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
 
 // ok so we know where the nursing homes are ... 
 
-		
 
 
 
