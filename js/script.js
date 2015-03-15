@@ -29,11 +29,6 @@ L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
 									d.circle.coordinates[1])
 		})
 
-// ok so we know where the nursing homes are ... 
-
-
-
-
 		var feature = g.selectAll("circle")
 			.data(collection.objects)
 			.enter().append("circle")
@@ -41,7 +36,16 @@ L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
 			.style("opacity", .6) 
 			.style("fill", "red")
 			.attr("r", 5);  
+
+// ok so we know where the nursing homes are ... 
+
 		
+
+
+
+
+
+// these update on re-zoom 
 
 		map.on("viewreset", update);
 		update();
