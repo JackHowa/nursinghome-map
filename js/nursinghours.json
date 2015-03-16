@@ -1,0 +1,3478 @@
+{
+    "dataset": {
+        "row": [
+    {
+        "est_ID": 1,
+        "est_name": "BLUFFS, THE",
+        "Street": "3105 BLUFF CREEK DRIVE",
+        "City": "COLUMBIA",
+        "State": "MO",
+        "zip": 65201,
+        "CR/RN/Day": 0.05
+    },
+    {
+        "est_ID": 2,
+        "est_name": "PRICE MEMORIAL",
+        "Street": "300 FORBY ROAD,  PO BOX 476",
+        "City": "EUREKA",
+        "State": "MO",
+        "zip": 63025,
+        "CR/RN/Day": 0.08
+    },
+    {
+        "est_ID": 3,
+        "est_name": "BETHESDA SOUTHGATE",
+        "Street": "5943 TELEGRAPH ROAD",
+        "City": "SAINT LOUIS",
+        "State": "MO",
+        "zip": 63129,
+        "CR/RN/Day": 0.13
+    },
+    {
+        "est_ID": 4,
+        "est_name": "Hest_IDDEN LAKE CARE CENTER",
+        "Street": "11400 Hest_IDDEN LAKE DRIVE, PO BOX 16567",
+        "City": "RAYTOWN",
+        "State": "MO",
+        "zip": 64133,
+        "CR/RN/Day": 0.07
+    },
+    {
+        "est_ID": 5,
+        "est_name": "JEFFERSON CITY NURSING AND REHABILITATION CTR, LLC",
+        "Street": "1221 SOUTHGATE LANE",
+        "City": "JEFFERSON CITY",
+        "State": "MO",
+        "zip": 65109,
+        "CR/RN/Day": 0.08
+    },
+    {
+        "est_ID": 6,
+        "est_name": "HILLSest_IDE MANOR HEALTHCARE AND REHAB CENTER",
+        "Street": "1265 MCLARAN AVENUE",
+        "City": "SAINT LOUIS",
+        "State": "MO",
+        "zip": 63147,
+        "CR/RN/Day": 0.07
+    },
+    {
+        "est_ID": 7,
+        "est_name": "BEAUVAIS MANOR HEALTHCARE & REHAB CENTER",
+        "Street": "3625 MAGNOLIA AVENUE",
+        "City": "SAINT LOUIS",
+        "State": "MO",
+        "zip": 63110,
+        "CR/RN/Day": 0.16
+    },
+    {
+        "est_ID": 8,
+        "est_name": "MONTICELLO HOUSE",
+        "Street": "1115 K LAND DRIVE, PO BOX 740",
+        "City": "JACKSON",
+        "State": "MO",
+        "zip": 63755,
+        "CR/RN/Day": 0.11
+    },
+    {
+        "est_ID": 9,
+        "est_name": "NORTH VALLEY NURSING & REHABILITATION CENTER",
+        "Street": "2115 KAPPEL DRIVE",
+        "City": "SAINT LOUIS",
+        "State": "MO",
+        "zip": 63136,
+        "CR/RN/Day": 0.12
+    },
+    {
+        "est_ID": 10,
+        "est_name": "Hest_IDDEN LAKE CARE CENTER",
+        "Street": "11400 Hest_IDDEN LAKE DRIVE, PO BOX 16567",
+        "City": "RAYTOWN",
+        "State": "MO",
+        "zip": 64133,
+        "CR/RN/Day": 0.12
+    },
+    {
+        "est_ID": 11,
+        "est_name": "ST LUKE'S NURSING CENTER INC",
+        "Street": "1220 EAST FAIRVIEW",
+        "City": "CARTHAGE",
+        "State": "MO",
+        "zip": 64836,
+        "CR/RN/Day": 0.12
+    },
+    {
+        "est_ID": 12,
+        "est_name": "BENTLEYS EXTENDED CARE",
+        "Street": "3060 ASHBY ROAD",
+        "City": "OVERLAND",
+        "State": "MO",
+        "zip": 63114,
+        "CR/RN/Day": 0.08
+    },
+    {
+        "est_ID": 13,
+        "est_name": "FOUR SEASONS LIVING CENTER",
+        "Street": "2800 HIGHWAY TT",
+        "City": "SEDALIA",
+        "State": "MO",
+        "zip": 65301,
+        "CR/RN/Day": 0.06
+    },
+    {
+        "est_ID": 14,
+        "est_name": "RANCHO MANOR HEALTHCARE AND REHABILITATION CENTER",
+        "Street": "615 RANCHO LANE",
+        "City": "FLORISSANT",
+        "State": "MO",
+        "zip": 63031,
+        "CR/RN/Day": 0.13
+    },
+    {
+        "est_ID": 15,
+        "est_name": "SUNNYVIEW NURSING HOME & APARTMENTS",
+        "Street": "1311 E 28TH STREET",
+        "City": "TRENTON",
+        "State": "MO",
+        "zip": 64683,
+        "CR/RN/Day": 0.14
+    },
+    {
+        "est_ID": 16,
+        "est_name": "BEAUTIFUL SAVIOR HOME",
+        "Street": "1003 SOUTH CEDAR STREET",
+        "City": "BELTON",
+        "State": "MO",
+        "zip": 64012,
+        "CR/RN/Day": 0.08
+    },
+    {
+        "est_ID": 17,
+        "est_name": "CRYSTAL CREEK HEALTH AND REHABILITATION CENTER",
+        "Street": "250 NEW FLORISSANT ROAD SOUTH",
+        "City": "FLORISSANT",
+        "State": "MO",
+        "zip": 63031,
+        "CR/RN/Day": 0.16
+    },
+    {
+        "est_ID": 18,
+        "est_name": "GLENNON PLACE NURSING CENTER",
+        "Street": "128 NORTH HARDESTY",
+        "City": "KANSAS CITY",
+        "State": "MO",
+        "zip": 64123,
+        "CR/RN/Day": 0.17
+    },
+    {
+        "est_ID": 19,
+        "est_name": "SHIRKEY NURSING AND REHABILITATION CENTER",
+        "Street": "804 WOLLARD BLVD",
+        "City": "RICHMOND",
+        "State": "MO",
+        "zip": 64085,
+        "CR/RN/Day": 0.11
+    },
+    {
+        "est_ID": 20,
+        "est_name": "GOLDEN LIVINGCENTER-DEXTER",
+        "Street": "415 S CATALPA STREET",
+        "City": "DEXTER",
+        "State": "MO",
+        "zip": 63841,
+        "CR/RN/Day": 0.24
+    },
+    {
+        "est_ID": 21,
+        "est_name": "APPLE Rest_IDGE CARE CENTER",
+        "Street": "100 WEST THOMAS AVENUE, PO BOX 188",
+        "City": "WAVERLY",
+        "State": "MO",
+        "zip": 64096,
+        "CR/RN/Day": 0.26
+    },
+    {
+        "est_ID": 22,
+        "est_name": "WESTRest_IDGE GARDENS NURSING AND REHABILITATION CENTE",
+        "Street": "11901 JESSICA LANE",
+        "City": "RAYTOWN",
+        "State": "MO",
+        "zip": 64138,
+        "CR/RN/Day": 0.19
+    },
+    {
+        "est_ID": 23,
+        "est_name": "GOOD SHEPHERD CARE CENTER",
+        "Street": "1101 WEST CLAY ROAD",
+        "City": "VERSAILLES",
+        "State": "MO",
+        "zip": 65084,
+        "CR/RN/Day": 0.13
+    },
+    {
+        "est_ID": 24,
+        "est_name": "CROWLEY Rest_IDGE CARE CENTER",
+        "Street": "1204 NORTH OUTER ROAD, PO BOX 668",
+        "City": "DEXTER",
+        "State": "MO",
+        "zip": 63841,
+        "CR/RN/Day": 0.11
+    },
+    {
+        "est_ID": 25,
+        "est_name": "QUAIL RUN HEALTH CARE CENTER",
+        "Street": "1405 WEST GRAND AVENUE, PO BOX 525",
+        "City": "CAMERON",
+        "State": "MO",
+        "zip": 64429,
+        "CR/RN/Day": 0.2
+    },
+    {
+        "est_ID": 26,
+        "est_name": "WARRENSBURG MANOR CARE CENTER",
+        "Street": "400 CARE CENTER DRIVE",
+        "City": "WARRENSBURG",
+        "State": "MO",
+        "zip": 64093,
+        "CR/RN/Day": 0.19
+    },
+    {
+        "est_ID": 27,
+        "est_name": "CHARLESTON MANOR",
+        "Street": "1220 EAST MARSHALL",
+        "City": "CHARLESTON",
+        "State": "MO",
+        "zip": 63834,
+        "CR/RN/Day": 0.21
+    },
+    {
+        "est_ID": 28,
+        "est_name": "HIGHLAND NURSING AND REHABILITATION CENTER",
+        "Street": "904 EAST 68TH STREET",
+        "City": "KANSAS CITY",
+        "State": "MO",
+        "zip": 64131,
+        "CR/RN/Day": 0.19
+    },
+    {
+        "est_ID": 29,
+        "est_name": "LUTHERAN NURSING HOME",
+        "Street": "202 SOUTH WEST STREET, PO BOX 849",
+        "City": "CONCORDIA",
+        "State": "MO",
+        "zip": 64020,
+        "CR/RN/Day": 0.23
+    },
+    {
+        "est_ID": 30,
+        "est_name": "CROWN CARE CENTER",
+        "Street": "3001 EAST ELM",
+        "City": "HARRISONVILLE",
+        "State": "MO",
+        "zip": 64701,
+        "CR/RN/Day": 0.15
+    },
+    {
+        "est_ID": 31,
+        "est_name": "ROSEWOOD HEALTH AND REHAB CENTER",
+        "Street": "1415 WEST WHITE OAK",
+        "City": "INDEPENDENCE",
+        "State": "MO",
+        "zip": 64050,
+        "CR/RN/Day": 0.14
+    },
+    {
+        "est_ID": 32,
+        "est_name": "GOLDEN LIVINGCENTER-INDEPENDENCE",
+        "Street": "17451 EAST MEDICAL CENTER PARKWAY",
+        "City": "INDEPENDENCE",
+        "State": "MO",
+        "zip": 64057,
+        "CR/RN/Day": 0.25
+    },
+    {
+        "est_ID": 33,
+        "est_name": "PARKSest_IDE MEADOWS INC",
+        "Street": "2150 WEST RANDOLPH",
+        "City": "SAINT CHARLES",
+        "State": "MO",
+        "zip": 63301,
+        "CR/RN/Day": 0.25
+    },
+    {
+        "est_ID": 34,
+        "est_name": "COUNTRY CLUB CARE CENTER OF WARRENSBURG",
+        "Street": "503 REGENT DRIVE",
+        "City": "WARRENSBURG",
+        "State": "MO",
+        "zip": 64093,
+        "CR/RN/Day": 0.19
+    },
+    {
+        "est_ID": 35,
+        "est_name": "GREEN PARK NURSING HOME",
+        "Street": "9350 GREEN PARK ROAD",
+        "City": "SAINT LOUIS",
+        "State": "MO",
+        "zip": 63123,
+        "CR/RN/Day": 0.31
+    },
+    {
+        "est_ID": 36,
+        "est_name": "LUTHERAN SENIOR SERVICES AT BREEZE PARK",
+        "Street": "600 BREEZE PARK DRIVE",
+        "City": "SAINT CHARLES",
+        "State": "MO",
+        "zip": 63304,
+        "CR/RN/Day": 0.21
+    },
+    {
+        "est_ID": 37,
+        "est_name": "BETHESDA DILWORTH",
+        "Street": "9645 BIG BEND BLVD",
+        "City": "SAINT LOUIS",
+        "State": "MO",
+        "zip": 63122,
+        "CR/RN/Day": 0.26
+    },
+    {
+        "est_ID": 38,
+        "est_name": "GOLDEN LIVINGCENTER-BLOOMFIELD",
+        "Street": "606 WEST MISSOURI STREET",
+        "City": "BLOOMFIELD",
+        "State": "MO",
+        "zip": 63825,
+        "CR/RN/Day": 0.17
+    },
+    {
+        "est_ID": 39,
+        "est_name": "GARDEN VIEW CARE CENTER OF CHESTERFIELD",
+        "Street": "1025 CHESTERFIELD POINTE PARKWAY",
+        "City": "CHESTERFIELD",
+        "State": "MO",
+        "zip": 63017,
+        "CR/RN/Day": 0.27
+    },
+    {
+        "est_ID": 40,
+        "est_name": "TWIN PINES ADULT CARE CENTER",
+        "Street": "316 SOUTH OSTEOPATHY STREET",
+        "City": "KIRKSVILLE",
+        "State": "MO",
+        "zip": 63501,
+        "CR/RN/Day": 0.37
+    },
+    {
+        "est_ID": 41,
+        "est_name": "CEDAR Rest_IDGE MANOR",
+        "Street": "6400 THE CEDARS COURT",
+        "City": "CEDAR HILL",
+        "State": "MO",
+        "zip": 63016,
+        "CR/RN/Day": 0.23
+    },
+    {
+        "est_ID": 42,
+        "est_name": "OZARK NURSING AND CARE CENTER",
+        "Street": "1486 NORTH RIVERSest_IDE RD",
+        "City": "OZARK",
+        "State": "MO",
+        "zip": 65721,
+        "CR/RN/Day": 0.18
+    },
+    {
+        "est_ID": 43,
+        "est_name": "PERRY OAKS NURSING & REHABILITATION CENTER",
+        "Street": "430 NORTH WEST STREET",
+        "City": "PERRYVILLE",
+        "State": "MO",
+        "zip": 63775,
+        "CR/RN/Day": 0.19
+    },
+    {
+        "est_ID": 44,
+        "est_name": "U-CITY FOREST MANOR",
+        "Street": "1301 PARTRest_IDGE AVENUE",
+        "City": "SAINT LOUIS",
+        "State": "MO",
+        "zip": 63130,
+        "CR/RN/Day": 0.13
+    },
+    {
+        "est_ID": 45,
+        "est_name": "BETHESDA MEADOW",
+        "Street": "322  OLD STATE ROAD",
+        "City": "ELLISVILLE",
+        "State": "MO",
+        "zip": 63021,
+        "CR/RN/Day": 0.19
+    },
+    {
+        "est_ID": 46,
+        "est_name": "DELMAR GARDENS OF O'FALLON",
+        "Street": "7068 SOUTH OUTER 364",
+        "City": "O FALLON",
+        "State": "MO",
+        "zip": 63368,
+        "CR/RN/Day": 0.31
+    },
+    {
+        "est_ID": 47,
+        "est_name": "COMMUNITY MANOR",
+        "Street": "783 WEBER ROAD",
+        "City": "FARMINGTON",
+        "State": "MO",
+        "zip": 63640,
+        "CR/RN/Day": 0.22
+    },
+    {
+        "est_ID": 48,
+        "est_name": "CRESTVIEW HOME",
+        "Street": "1313 SOUTH 25TH ST, PO BOX 430",
+        "City": "BETHANY",
+        "State": "MO",
+        "zip": 64424,
+        "CR/RN/Day": 0.22
+    },
+    {
+        "est_ID": 49,
+        "est_name": "DELMAR GARDENS OF CREVE COEUR",
+        "Street": "850 COUNTRY MANOR LANE",
+        "City": "CREVE COEUR",
+        "State": "MO",
+        "zip": 63141,
+        "CR/RN/Day": 0.21
+    },
+    {
+        "est_ID": 50,
+        "est_name": "MARYMOUNT MANOR",
+        "Street": "313 AUGUSTINE RD",
+        "City": "EUREKA",
+        "State": "MO",
+        "zip": 63025,
+        "CR/RN/Day": 0.16
+    },
+    {
+        "est_ID": 51,
+        "est_name": "BIG BEND WOODS HEALTHCARE CENTER",
+        "Street": "110 HIGHLAND AVENUE",
+        "City": "VALLEY PARK",
+        "State": "MO",
+        "zip": 63088,
+        "CR/RN/Day": 0.28
+    },
+    {
+        "est_ID": 52,
+        "est_name": "CLINTON HEALTHCARE AND REHABILITATION CENTER",
+        "Street": "1009 EAST OHIO",
+        "City": "CLINTON",
+        "State": "MO",
+        "zip": 64735,
+        "CR/RN/Day": 0.17
+    },
+    {
+        "est_ID": 53,
+        "est_name": "RED ROSE HEALTH & REHABILITATION CENTER",
+        "Street": "812 OLD EXETER ROAD",
+        "City": "CASSVILLE",
+        "State": "MO",
+        "zip": 65625,
+        "CR/RN/Day": 0.33
+    },
+    {
+        "est_ID": 54,
+        "est_name": "MILLER COUNTY CARE AND REHABILITATION CENTER",
+        "Street": "1157 HIGHWAY 17",
+        "City": "TUSCUMBIA",
+        "State": "MO",
+        "zip": 65082,
+        "CR/RN/Day": 0.19
+    },
+    {
+        "est_ID": 55,
+        "est_name": "GOLDEN LIVINGCENTER-MALDEN",
+        "Street": "500 BARRETT DRIVE",
+        "City": "MALDEN",
+        "State": "MO",
+        "zip": 63863,
+        "CR/RN/Day": 0.23
+    },
+    {
+        "est_ID": 56,
+        "est_name": "CREVE COEUR MANOR",
+        "Street": "1127 TIMBER RUN DRIVE",
+        "City": "SAINT LOUIS",
+        "State": "MO",
+        "zip": 63146,
+        "CR/RN/Day": 0.2
+    },
+    {
+        "est_ID": 57,
+        "est_name": "CARROLL HOUSE",
+        "Street": "307 GRAND",
+        "City": "CARROLLTON",
+        "State": "MO",
+        "zip": 64633,
+        "CR/RN/Day": 0.21
+    },
+    {
+        "est_ID": 58,
+        "est_name": "STRAFFORD CARE CENTER",
+        "Street": "505 WEST EVERGREEN",
+        "City": "STRAFFORD",
+        "State": "MO",
+        "zip": 65757,
+        "CR/RN/Day": 0.14
+    },
+    {
+        "est_ID": 59,
+        "est_name": "ALEXIAN BROS LANSDOWNE VILLAGE",
+        "Street": "4624 LANSDOWNE AVENUE",
+        "City": "SAINT LOUIS",
+        "State": "MO",
+        "zip": 63116,
+        "CR/RN/Day": 0.26
+    },
+    {
+        "est_ID": 60,
+        "est_name": "INDEPENDENCE CARE CENTER OF PERRY COUNTY",
+        "Street": "800 SOUTH KINGSHIGHWAY",
+        "City": "PERRYVILLE",
+        "State": "MO",
+        "zip": 63775,
+        "CR/RN/Day": 0.18
+    },
+    {
+        "est_ID": 61,
+        "est_name": "GOLDEN LIVINGCENTER-NEW HAVEN",
+        "Street": "609 GOLF STREET",
+        "City": "ODESSA",
+        "State": "MO",
+        "zip": 64076,
+        "CR/RN/Day": 0.3
+    },
+    {
+        "est_ID": 62,
+        "est_name": "MERAMEC NURSING CENTER",
+        "Street": "940 MATTOX DRIVE",
+        "City": "SULLIVAN",
+        "State": "MO",
+        "zip": 63080,
+        "CR/RN/Day": 0.22
+    },
+    {
+        "est_ID": 63,
+        "est_name": "NHC HEALTHCARE, ST CHARLES",
+        "Street": "35 SUGAR MAPLE LANE",
+        "City": "SAINT CHARLES",
+        "State": "MO",
+        "zip": 63303,
+        "CR/RN/Day": 0.24
+    },
+    {
+        "est_ID": 64,
+        "est_name": "TROY MANOR",
+        "Street": "200 THOMPSON DRIVE",
+        "City": "TROY",
+        "State": "MO",
+        "zip": 63379,
+        "CR/RN/Day": 0.18
+    },
+    {
+        "est_ID": 65,
+        "est_name": "BROOKE HAVEN HEALTHCARE",
+        "Street": "1410 NORTH KENTUCKY AVENUE",
+        "City": "WEST PLAINS",
+        "State": "MO",
+        "zip": 65775,
+        "CR/RN/Day": 0.31
+    },
+    {
+        "est_ID": 66,
+        "est_name": "HERITAGE GARDENS OF SENATH SOUTH",
+        "Street": "300 E HORNBECK STREET",
+        "City": "SENATH",
+        "State": "MO",
+        "zip": 63876,
+        "CR/RN/Day": 0.31
+    },
+    {
+        "est_ID": 67,
+        "est_name": "COUNTRY AIRE RETIREMENT ESTATES",
+        "Street": "18540 STATE HIGHWAY 16",
+        "City": "LEWISTOWN",
+        "State": "MO",
+        "zip": 63452,
+        "CR/RN/Day": 0.38
+    },
+    {
+        "est_ID": 68,
+        "est_name": "CARMEL HILLS HEALTHCARE AND REHABILITATION CENTER",
+        "Street": "810 EAST WALNUT",
+        "City": "INDEPENDENCE",
+        "State": "MO",
+        "zip": 64050,
+        "CR/RN/Day": 0.22
+    },
+    {
+        "est_ID": 69,
+        "est_name": "MAGNOLIA SQUARE NURSING AND REHABILITATION CENTER",
+        "Street": "1502 WEST EDGEWOOD",
+        "City": "SPRINGFIELD",
+        "State": "MO",
+        "zip": 65807,
+        "CR/RN/Day": 0.3
+    },
+    {
+        "est_ID": 70,
+        "est_name": "CRYSTAL OAKS",
+        "Street": "1500 CALVARY CHURCH ROAD, PO BOX 680",
+        "City": "CRYSTAL CITY",
+        "State": "MO",
+        "zip": 63019,
+        "CR/RN/Day": 0.35
+    },
+    {
+        "est_ID": 71,
+        "est_name": "VILLAS-A STONEBRest_IDGE COMMUNITY, THE",
+        "Street": "1550 VILLAS DRIVE",
+        "City": "DE SOTO",
+        "State": "MO",
+        "zip": 63020,
+        "CR/RN/Day": 0.27
+    },
+    {
+        "est_ID": 72,
+        "est_name": "INDIAN HILLS-A STONEBRest_IDGE COMMUNITY",
+        "Street": "2601 FAIR STREET",
+        "City": "CHILLICOTHE",
+        "State": "MO",
+        "zip": 64601,
+        "CR/RN/Day": 0.31
+    },
+    {
+        "est_ID": 73,
+        "est_name": "LA PLATA NURSING HOME",
+        "Street": "100 OLD STAGECOACH ROAD",
+        "City": "LA PLATA",
+        "State": "MO",
+        "zip": 63549,
+        "CR/RN/Day": 0.34
+    },
+    {
+        "est_ID": 74,
+        "est_name": "JORDAN CREEK NURSING & REHAB",
+        "Street": "910 SOUTH WEST AVE",
+        "City": "SPRINGFIELD",
+        "State": "MO",
+        "zip": 65802,
+        "CR/RN/Day": 0.19
+    },
+    {
+        "est_ID": 75,
+        "est_name": "JEFFERSON CITY MANOR CARE CENTER",
+        "Street": "1720 VIETH DR",
+        "City": "JEFFERSON CITY",
+        "State": "MO",
+        "zip": 65109,
+        "CR/RN/Day": 0.21
+    },
+    {
+        "est_ID": 76,
+        "est_name": "MONTEREY PARK NURSING CENTER",
+        "Street": "4600 LITTLE BLUE PARKWAY",
+        "City": "INDEPENDENCE",
+        "State": "MO",
+        "zip": 64057,
+        "CR/RN/Day": 0.22
+    },
+    {
+        "est_ID": 77,
+        "est_name": "SAXTON HEALTH CARE INN",
+        "Street": "3002 NORTH 18TH ST, PO BOX 8398",
+        "City": "SAINT JOSEPH",
+        "State": "MO",
+        "zip": 64508,
+        "CR/RN/Day": 0.22
+    },
+    {
+        "est_ID": 78,
+        "est_name": "KIRKSVILLE MANOR CARE CENTER",
+        "Street": "1705 EAST LAHARPE",
+        "City": "KIRKSVILLE",
+        "State": "MO",
+        "zip": 63501,
+        "CR/RN/Day": 0.24
+    },
+    {
+        "est_ID": 79,
+        "est_name": "MONROE CITY MANOR CARE CENTER",
+        "Street": "1010 HIGHWAY 24 & 36 EAST",
+        "City": "MONROE CITY",
+        "State": "MO",
+        "zip": 63456,
+        "CR/RN/Day": 0.3
+    },
+    {
+        "est_ID": 80,
+        "est_name": "BROOKHAVEN HEALTH AND REHABILITATION",
+        "Street": "3405 WEST MT VERNON",
+        "City": "SPRINGFIELD",
+        "State": "MO",
+        "zip": 65802,
+        "CR/RN/Day": 0.25
+    },
+    {
+        "est_ID": 81,
+        "est_name": "GOLDEN LIVINGCENTER-NEW MADRest_ID",
+        "Street": "1050 DAWSON ROAD",
+        "City": "NEW MADRest_ID",
+        "State": "MO",
+        "zip": 63869,
+        "CR/RN/Day": 0.23
+    },
+    {
+        "est_ID": 82,
+        "est_name": "NHC HEALTHCARE, DESLOGE",
+        "Street": "801 BRIM STREET, PO BOX AA",
+        "City": "DESLOGE",
+        "State": "MO",
+        "zip": 63601,
+        "CR/RN/Day": 0.31
+    },
+    {
+        "est_ID": 83,
+        "est_name": "ST MARYS MANOR",
+        "Street": "111 MOCK AVENUE",
+        "City": "BLUE SPRINGS",
+        "State": "MO",
+        "zip": 64014,
+        "CR/RN/Day": 0.39
+    },
+    {
+        "est_ID": 84,
+        "est_name": "GARDEN VALLEY NURSING & REHABILITATION CENTER",
+        "Street": "8575 NORTH GRANBY AVE",
+        "City": "KANSAS CITY",
+        "State": "MO",
+        "zip": 64154,
+        "CR/RN/Day": 0.25
+    },
+    {
+        "est_ID": 85,
+        "est_name": "GOLDEN LIVINGCENTER-GLASGOW",
+        "Street": "100 AUDSLEY DRIVE",
+        "City": "GLASGOW",
+        "State": "MO",
+        "zip": 65254,
+        "CR/RN/Day": 0.24
+    },
+    {
+        "est_ID": 86,
+        "est_name": "GOLDEN LIVINGCENTER-BRANSON",
+        "Street": "996 STATE HIGHWAY 248",
+        "City": "BRANSON",
+        "State": "MO",
+        "zip": 65616,
+        "CR/RN/Day": 0.51
+    },
+    {
+        "est_ID": 87,
+        "est_name": "SPRINGFIELD REHABILITATION & HEALTH CARE CENTER",
+        "Street": "2800 SOUTH FORT AVENUE, PO BOX 3438GS",
+        "City": "SPRINGFIELD",
+        "State": "MO",
+        "zip": 65807,
+        "CR/RN/Day": 0.27
+    },
+    {
+        "est_ID": 88,
+        "est_name": "ST JOE MANOR",
+        "Street": "10 LAKE DRIVE",
+        "City": "BONNE TERRE",
+        "State": "MO",
+        "zip": 63628,
+        "CR/RN/Day": 0.26
+    },
+    {
+        "est_ID": 89,
+        "est_name": "WEBCO MANOR",
+        "Street": "1687 WEST WASHINGTON",
+        "City": "MARSHFIELD",
+        "State": "MO",
+        "zip": 65706,
+        "CR/RN/Day": 0.26
+    },
+    {
+        "est_ID": 90,
+        "est_name": "GOLDEN LIVINGCENTER-GAMMA ROAD LODGE",
+        "Street": "250 E LOCUST, PO BOX 77",
+        "City": "WELLSVILLE",
+        "State": "MO",
+        "zip": 63384,
+        "CR/RN/Day": 0.22
+    },
+    {
+        "est_ID": 91,
+        "est_name": "WOODLAND MANOR NURSING CENTER",
+        "Street": "100 WOODLAND COURT",
+        "City": "ARNOLD",
+        "State": "MO",
+        "zip": 63010,
+        "CR/RN/Day": 0.22
+    },
+    {
+        "est_ID": 92,
+        "est_name": "MAPLE GROVE LODGE",
+        "Street": "2407 KENTUCKY STREET",
+        "City": "LOUISIANA",
+        "State": "MO",
+        "zip": 63353,
+        "CR/RN/Day": 0.32
+    },
+    {
+        "est_ID": 93,
+        "est_name": "WILLARD CARE CENTRE INC",
+        "Street": "400 WALNUT LANE",
+        "City": "WILLARD",
+        "State": "MO",
+        "zip": 65781,
+        "CR/RN/Day": 0.31
+    },
+    {
+        "est_ID": 94,
+        "est_name": "OZARK MOUNTAIN REGIONAL HEALTHCARE CENTER",
+        "Street": "509 MEADOWLARK AVENUE",
+        "City": "CRANE",
+        "State": "MO",
+        "zip": 65633,
+        "CR/RN/Day": 0.51
+    },
+    {
+        "est_ID": 95,
+        "est_name": "MARANATHA VILLAGE, INC",
+        "Street": "233 EAST  NORTON ROAD",
+        "City": "SPRINGFIELD",
+        "State": "MO",
+        "zip": 65803,
+        "CR/RN/Day": 0.3
+    },
+    {
+        "est_ID": 96,
+        "est_name": "VALLEY-A STONEBRest_IDGE COMMUNITY, THE",
+        "Street": "6768 NORTH HIGHWAY 67",
+        "City": "FLORISSANT",
+        "State": "MO",
+        "zip": 63034,
+        "CR/RN/Day": 0.19
+    },
+    {
+        "est_ID": 97,
+        "est_name": "PARKWOOD SKILLED NURSING AND REHABILITATION CENTER",
+        "Street": "3201 PARKWOOD LANE",
+        "City": "MARYLAND HEIGHTS",
+        "State": "MO",
+        "zip": 63043,
+        "CR/RN/Day": 0.16
+    },
+    {
+        "est_ID": 98,
+        "est_name": "LUTHERAN CONVALESCENT HOME",
+        "Street": "723 SOUTH LACLEDE STATION RD",
+        "City": "WEBSTER GROVES",
+        "State": "MO",
+        "zip": 63119,
+        "CR/RN/Day": 0.39
+    },
+    {
+        "est_ID": 99,
+        "est_name": "GREGORY Rest_IDGE LIVING CENTER",
+        "Street": "7001 CLEVELAND AVENUE",
+        "City": "KANSAS CITY",
+        "State": "MO",
+        "zip": 64132,
+        "CR/RN/Day": 0.23
+    },
+    {
+        "est_ID": 100,
+        "est_name": "SCENIC NURSING AND REHABILITATION CENTER, LLC",
+        "Street": "1333 SCENIC DRIVE",
+        "City": "HERCULANEUM",
+        "State": "MO",
+        "zip": 63048,
+        "CR/RN/Day": 0.23
+    },
+    {
+        "est_ID": 101,
+        "est_name": "TRUMAN LAKE MANOR INC",
+        "Street": "600 EAST 7TH ST, PO BOX 415",
+        "City": "LOWRY CITY",
+        "State": "MO",
+        "zip": 64763,
+        "CR/RN/Day": 0.23
+    },
+    {
+        "est_ID": 102,
+        "est_name": "PARKSest_IDE MANOR",
+        "Street": "1201 HUNT AVENUE",
+        "City": "COLUMBIA",
+        "State": "MO",
+        "zip": 65202,
+        "CR/RN/Day": 0.3
+    },
+    {
+        "est_ID": 103,
+        "est_name": "DELHAVEN MANOR",
+        "Street": "5460 DELMAR BLVD",
+        "City": "SAINT LOUIS",
+        "State": "MO",
+        "zip": 63112,
+        "CR/RN/Day": 0.31
+    },
+    {
+        "est_ID": 104,
+        "est_name": "PLEASANT VIEW",
+        "Street": "470 RAINBOW DRIVE, PO BOX 273",
+        "City": "ROCK PORT",
+        "State": "MO",
+        "zip": 64482,
+        "CR/RN/Day": 0.31
+    },
+    {
+        "est_ID": 105,
+        "est_name": "GOLDEN LIVINGCENTER-WESTWOOD",
+        "Street": "1801 NORTH GAINES DRIVE",
+        "City": "CLINTON",
+        "State": "MO",
+        "zip": 64735,
+        "CR/RN/Day": 0.18
+    },
+    {
+        "est_ID": 106,
+        "est_name": "SUMMIT, THE",
+        "Street": "3660 SUMMIT",
+        "City": "KANSAS CITY",
+        "State": "MO",
+        "zip": 64111,
+        "CR/RN/Day": 0.18
+    },
+    {
+        "est_ID": 107,
+        "est_name": "SUNSET HILLS HEALTH AND REHABILITATION CENTER",
+        "Street": "10954 KENNERLY ROAD",
+        "City": "SAINT LOUIS",
+        "State": "MO",
+        "zip": 63128,
+        "CR/RN/Day": 0.33
+    },
+    {
+        "est_ID": 108,
+        "est_name": "MANORCARE HEALTH SERVICES",
+        "Street": "1200 GRAHAM ROAD",
+        "City": "FLORISSANT",
+        "State": "MO",
+        "zip": 63031,
+        "CR/RN/Day": 0.42
+    },
+    {
+        "est_ID": 109,
+        "est_name": "PARKLANE CARE AND REHABILITATION CENTER",
+        "Street": "401 MAR-LE DRIVE",
+        "City": "WENTZVILLE",
+        "State": "MO",
+        "zip": 63385,
+        "CR/RN/Day": 0.26
+    },
+    {
+        "est_ID": 110,
+        "est_name": "WILLOW CARE NURSING HOME",
+        "Street": "2646 STATE ROUTE 76, PO BOX 309",
+        "City": "WILLOW SPRINGS",
+        "State": "MO",
+        "zip": 65793,
+        "CR/RN/Day": 0.31
+    },
+    {
+        "est_ID": 111,
+        "est_name": "RIVERWAYS MANOR",
+        "Street": "403 WATERCRESS ROAD,  BOX 969",
+        "City": "VAN BUREN",
+        "State": "MO",
+        "zip": 63965,
+        "CR/RN/Day": 0.5
+    },
+    {
+        "est_ID": 112,
+        "est_name": "GOLDEN LIVINGCENTER-MARYVILLE",
+        "Street": "524 NORTH LAURA",
+        "City": "MARYVILLE",
+        "State": "MO",
+        "zip": 64468,
+        "CR/RN/Day": 0.32
+    },
+    {
+        "est_ID": 113,
+        "est_name": "GLENWOOD HEALTHCARE",
+        "Street": "851 THOROUGHFARE, PO BOX 399",
+        "City": "SEYMOUR",
+        "State": "MO",
+        "zip": 65746,
+        "CR/RN/Day": 0.4
+    },
+    {
+        "est_ID": 114,
+        "est_name": "OZARK RIVERVIEW MANOR",
+        "Street": "1200 WEST HALL,  PO BOX 157",
+        "City": "OZARK",
+        "State": "MO",
+        "zip": 65721,
+        "CR/RN/Day": 0.22
+    },
+    {
+        "est_ID": 115,
+        "est_name": "SHANGRI-LA REHAB & LIVING CENTER",
+        "Street": "930 NE DUNCAN ROAD",
+        "City": "BLUE SPRINGS",
+        "State": "MO",
+        "zip": 64014,
+        "CR/RN/Day": 0.13
+    },
+    {
+        "est_ID": 116,
+        "est_name": "VILLAGES OF JACKSON  CREEK, THE",
+        "Street": "3980 SOUTH JACKSON DRIVE",
+        "City": "INDEPENDENCE",
+        "State": "MO",
+        "zip": 64057,
+        "CR/RN/Day": 0.39
+    },
+    {
+        "est_ID": 117,
+        "est_name": "MARY, QUEEN AND MOTHER CENTER",
+        "Street": "7601 WATSON ROAD",
+        "City": "SHREWSBURY",
+        "State": "MO",
+        "zip": 63119,
+        "CR/RN/Day": 0.43
+    },
+    {
+        "est_ID": 118,
+        "est_name": "CARTHAGE HEALTH AND REHABILITATION CENTER",
+        "Street": "1901 BUENA VISTA AVENUE",
+        "City": "CARTHAGE",
+        "State": "MO",
+        "zip": 64836,
+        "CR/RN/Day": 0.17
+    },
+    {
+        "est_ID": 119,
+        "est_name": "LINCOLN COMMUNITY CARE CENTER",
+        "Street": "205 TIMBERLINE DRIVE",
+        "City": "LINCOLN",
+        "State": "MO",
+        "zip": 65338,
+        "CR/RN/Day": 0.17
+    },
+    {
+        "est_ID": 120,
+        "est_name": "OAKDALE CARE CENTER",
+        "Street": "2702 DEBBIE LANE,  PO BOX 340",
+        "City": "POPLAR BLUFF",
+        "State": "MO",
+        "zip": 63902,
+        "CR/RN/Day": 0.3
+    },
+    {
+        "est_ID": 121,
+        "est_name": "ASHLAND HEALTHCARE",
+        "Street": "300 SOUTH HENRY CLAY BLVD",
+        "City": "ASHLAND",
+        "State": "MO",
+        "zip": 65010,
+        "CR/RN/Day": 0.22
+    },
+    {
+        "est_ID": 122,
+        "est_name": "EDGEWOOD MANOR NURSING HOME",
+        "Street": "11900 JESSICA LANE",
+        "City": "RAYTOWN",
+        "State": "MO",
+        "zip": 64138,
+        "CR/RN/Day": 0.29
+    },
+    {
+        "est_ID": 123,
+        "est_name": "WILSHIRE AT LAKEWOOD",
+        "Street": "600 N E MEADOWVIEW DRIVE",
+        "City": "LEES SUMMIT",
+        "State": "MO",
+        "zip": 64064,
+        "CR/RN/Day": 0.29
+    },
+    {
+        "est_ID": 124,
+        "est_name": "ADRIAN MANOR HEALTH & REHABILITATION CENTER",
+        "Street": "402 WEST FIRST STREET",
+        "City": "ADRIAN",
+        "State": "MO",
+        "zip": 64720,
+        "CR/RN/Day": 0.32
+    },
+    {
+        "est_ID": 125,
+        "est_name": "LUTHERAN HOME, THE",
+        "Street": "2825 BLOOMFIELD ROAD",
+        "City": "CAPE GIRARDEAU",
+        "State": "MO",
+        "zip": 63703,
+        "CR/RN/Day": 0.39
+    },
+    {
+        "est_ID": 126,
+        "est_name": "JONESBURG NURSING & REHAB",
+        "Street": "308 CEDAR AVENUE, PO BOX 218",
+        "City": "JONESBURG",
+        "State": "MO",
+        "zip": 63351,
+        "CR/RN/Day": 0.31
+    },
+    {
+        "est_ID": 127,
+        "est_name": "ROLLA MANOR CARE CENTER",
+        "Street": "1800 WHITE COLUMNS DRIVE",
+        "City": "ROLLA",
+        "State": "MO",
+        "zip": 65401,
+        "CR/RN/Day": 0.25
+    },
+    {
+        "est_ID": 128,
+        "est_name": "ARBOR VIEW HEALTHCARE AND REHABILITATION CENTER",
+        "Street": "1317 NORTH 36TH STREET",
+        "City": "SAINT JOSEPH",
+        "State": "MO",
+        "zip": 64506,
+        "CR/RN/Day": 0.31
+    },
+    {
+        "est_ID": 129,
+        "est_name": "LIFE CARE CENTER OF GRANDVIEW",
+        "Street": "6301 EAST 125TH ST",
+        "City": "GRANDVIEW",
+        "State": "MO",
+        "zip": 64030,
+        "CR/RN/Day": 0.64
+    },
+    {
+        "est_ID": 130,
+        "est_name": "PUTNAM COUNTY CARE CENTER",
+        "Street": "1814 OAK STREET",
+        "City": "UNIONVILLE",
+        "State": "MO",
+        "zip": 63565,
+        "CR/RN/Day": 0.33
+    },
+    {
+        "est_ID": 131,
+        "est_name": "LIFE CARE CENTER OF CAPE GIRARDEAU",
+        "Street": "2852 INDEPENDENCE STREET",
+        "City": "CAPE GIRARDEAU",
+        "State": "MO",
+        "zip": 63703,
+        "CR/RN/Day": 0.42
+    },
+    {
+        "est_ID": 132,
+        "est_name": "PLEASANT HILL HEALTH AND REHABILITATION CENTER",
+        "Street": "1300 BROADWAY",
+        "City": "PLEASANT HILL",
+        "State": "MO",
+        "zip": 64080,
+        "CR/RN/Day": 0.26
+    },
+    {
+        "est_ID": 133,
+        "est_name": "NEW HAVEN CARE CENTER",
+        "Street": "9503 HIGHWAY 100",
+        "City": "NEW HAVEN",
+        "State": "MO",
+        "zip": 63068,
+        "CR/RN/Day": 0.23
+    },
+    {
+        "est_ID": 134,
+        "est_name": "ELSBERRY MISSOURI HEALTH CARE CENTER",
+        "Street": "1827 HWY B",
+        "City": "ELSBERRY",
+        "State": "MO",
+        "zip": 63343,
+        "CR/RN/Day": 0.43
+    },
+    {
+        "est_ID": 135,
+        "est_name": "HOLMESDALE HEALTHCARE AND REHABILITATION CENTER",
+        "Street": "8033 HOLMES",
+        "City": "KANSAS CITY",
+        "State": "MO",
+        "zip": 64131,
+        "CR/RN/Day": 0.2
+    },
+    {
+        "est_ID": 136,
+        "est_name": "DELMAR GARDENS OF MERAMEC VALLEY",
+        "Street": "#1 ARBOR TERRACE",
+        "City": "FENTON",
+        "State": "MO",
+        "zip": 63026,
+        "CR/RN/Day": 0.34
+    },
+    {
+        "est_ID": 137,
+        "est_name": "WESTPHALIA HILLS-A STONEBRest_IDGE COMMUNITY",
+        "Street": "1899 HIGHWAY 63",
+        "City": "WESTPHALIA",
+        "State": "MO",
+        "zip": 65085,
+        "CR/RN/Day": 0.33
+    },
+    {
+        "est_ID": 138,
+        "est_name": "GOLDEN LIVINGCENTER-JEFFERSON CITY",
+        "Street": "3038 WEST TRUMAN BLVD",
+        "City": "JEFFERSON CITY",
+        "State": "MO",
+        "zip": 65109,
+        "CR/RN/Day": 0.44
+    },
+    {
+        "est_ID": 139,
+        "est_name": "MARIES MANOR",
+        "Street": "174 BALLPARK ROAD",
+        "City": "VIENNA",
+        "State": "MO",
+        "zip": 65582,
+        "CR/RN/Day": 0.3
+    },
+    {
+        "est_ID": 140,
+        "est_name": "CAMDENTON WINDSOR ESTATES",
+        "Street": "2042 HIGHWAY 5 NORTH",
+        "City": "CAMDENTON",
+        "State": "MO",
+        "zip": 65020,
+        "CR/RN/Day": 0.27
+    },
+    {
+        "est_ID": 141,
+        "est_name": "NHC HEALTHCARE, TOWN & COUNTRY",
+        "Street": "13995 CLAYTON ROAD",
+        "City": "TOWN AND COUNTRY",
+        "State": "MO",
+        "zip": 63017,
+        "CR/RN/Day": 0.4
+    },
+    {
+        "est_ID": 142,
+        "est_name": "GOLDEN LIVINGCENTER-PIN OAKS",
+        "Street": "1525 WEST MONROE",
+        "City": "MEXICO",
+        "State": "MO",
+        "zip": 65265,
+        "CR/RN/Day": 0.37
+    },
+    {
+        "est_ID": 143,
+        "est_name": "BERTRAND RETIREMENT HOME",
+        "Street": "603 WEST HIGHWAY 62",
+        "City": "BERTRAND",
+        "State": "MO",
+        "zip": 63823,
+        "CR/RN/Day": 0.31
+    },
+    {
+        "est_ID": 144,
+        "est_name": "CARONDELET MANOR",
+        "Street": "621 CARONDELET DRIVE",
+        "City": "KANSAS CITY",
+        "State": "MO",
+        "zip": 64114,
+        "CR/RN/Day": 0.35
+    },
+    {
+        "est_ID": 145,
+        "est_name": "GOLDEN LIVINGCENTER-SMITHVILLE",
+        "Street": "106 HOSPITAL DRIVE",
+        "City": "SMITHVILLE",
+        "State": "MO",
+        "zip": 64089,
+        "CR/RN/Day": 0.25
+    },
+    {
+        "est_ID": 146,
+        "est_name": "ST SOPHIA HEALTH & REHABILITATION CENTER",
+        "Street": "936 CHARBONIER ROAD",
+        "City": "FLORISSANT",
+        "State": "MO",
+        "zip": 63031,
+        "CR/RN/Day": 0.2
+    },
+    {
+        "est_ID": 147,
+        "est_name": "WILLOW CARE REHABILITATION AND HEALTH CARE CENTER",
+        "Street": "328 MUNGER LANE",
+        "City": "HANNIBAL",
+        "State": "MO",
+        "zip": 63401,
+        "CR/RN/Day": 0.3
+    },
+    {
+        "est_ID": 148,
+        "est_name": "CEDARS AT THE JCA, THE",
+        "Street": "13190 SOUTH OUTER 40 ROAD",
+        "City": "CHESTERFIELD",
+        "State": "MO",
+        "zip": 63017,
+        "CR/RN/Day": 0.47
+    },
+    {
+        "est_ID": 149,
+        "est_name": "CLARU DEVILLE NURSING CENTER",
+        "Street": "105 SPRUCE STREET",
+        "City": "FREDERICKTOWN",
+        "State": "MO",
+        "zip": 63645,
+        "CR/RN/Day": 0.37
+    },
+    {
+        "est_ID": 150,
+        "est_name": "DUTCHTOWN CARE CENTER",
+        "Street": "3421 GASCONADE",
+        "City": "SAINT LOUIS",
+        "State": "MO",
+        "zip": 63118,
+        "CR/RN/Day": 0.37
+    },
+    {
+        "est_ID": 151,
+        "est_name": "SOUTH HAMPTON PLACE",
+        "Street": "4700 BRANDON WOODS",
+        "City": "COLUMBIA",
+        "State": "MO",
+        "zip": 65203,
+        "CR/RN/Day": 0.27
+    },
+    {
+        "est_ID": 152,
+        "est_name": "RIVERSest_IDE NURSING & REHABILITATION CENTER, LLC",
+        "Street": "4700 NW CLIFFVIEW DRIVE",
+        "City": "RIVERSest_IDE",
+        "State": "MO",
+        "zip": 64150,
+        "CR/RN/Day": 0.3
+    },
+    {
+        "est_ID": 153,
+        "est_name": "CEDAR Rest_IDGE MANOR",
+        "Street": "6400 THE CEDARS COURT",
+        "City": "CEDAR HILL",
+        "State": "MO",
+        "zip": 63016,
+        "CR/RN/Day": 0.38
+    },
+    {
+        "est_ID": 154,
+        "est_name": "LIBERTY TERRACE HEALTHCARE AND REHABILITATION CTR",
+        "Street": "2201 GLENN HENDREN DR",
+        "City": "LIBERTY",
+        "State": "MO",
+        "zip": 64068,
+        "CR/RN/Day": 0.31
+    },
+    {
+        "est_ID": 155,
+        "est_name": "CEDARS AT THE JCA, THE",
+        "Street": "13190 SOUTH OUTER 40 ROAD",
+        "City": "CHESTERFIELD",
+        "State": "MO",
+        "zip": 63017,
+        "CR/RN/Day": 0.49
+    },
+    {
+        "est_ID": 156,
+        "est_name": "LUTHERAN SENIOR SERVICES AT Hest_IDDEN LAKE",
+        "Street": "11728 Hest_IDDEN LAKE DRIVE",
+        "City": "SAINT LOUIS",
+        "State": "MO",
+        "zip": 63138,
+        "CR/RN/Day": 0.55
+    },
+    {
+        "est_ID": 157,
+        "est_name": "REHABILITATION CENTER OF RAYMORE, THE",
+        "Street": "600 E SUNRISE DRIVE",
+        "City": "RAYMORE",
+        "State": "MO",
+        "zip": 64083,
+        "CR/RN/Day": 0.21
+    },
+    {
+        "est_ID": 158,
+        "est_name": "FAYETTE CARING CENTER",
+        "Street": "501 SOUTH PARK",
+        "City": "FAYETTE",
+        "State": "MO",
+        "zip": 65248,
+        "CR/RN/Day": 0.58
+    },
+    {
+        "est_ID": 159,
+        "est_name": "BETHANY CARE CENTER",
+        "Street": "1305 SOUTH 7TH STREET PO BOX 273",
+        "City": "BETHANY",
+        "State": "MO",
+        "zip": 64424,
+        "CR/RN/Day": 0.33
+    },
+    {
+        "est_ID": 160,
+        "est_name": "MANORCARE HEALTH SERVICES",
+        "Street": "2915 SOUTH FREMONT",
+        "City": "SPRINGFIELD",
+        "State": "MO",
+        "zip": 65804,
+        "CR/RN/Day": 0.37
+    },
+    {
+        "est_ID": 161,
+        "est_name": "LA BELLE MANOR CARE CENTER",
+        "Street": "1002 CENTRAL",
+        "City": "LA BELLE",
+        "State": "MO",
+        "zip": 63447,
+        "CR/RN/Day": 0.49
+    },
+    {
+        "est_ID": 162,
+        "est_name": "ST GENEVIEVE CARE CENTER INC",
+        "Street": "1010 STE GENEVIEVE DRIVE, PO BOX 426",
+        "City": "SAINTE GENEVIEVE",
+        "State": "MO",
+        "zip": 63670,
+        "CR/RN/Day": 0.53
+    },
+    {
+        "est_ID": 163,
+        "est_name": "CHRISTIAN HEALTH & REHABILITATION OF LEBANON NORTH",
+        "Street": "596 MORTON ROAD",
+        "City": "LEBANON",
+        "State": "MO",
+        "zip": 65536,
+        "CR/RN/Day": 0.22
+    },
+    {
+        "est_ID": 164,
+        "est_name": "DELMAR GARDENS SOUTH",
+        "Street": "5300 BUTLER HILL ROAD",
+        "City": "SAINT LOUIS",
+        "State": "MO",
+        "zip": 63128,
+        "CR/RN/Day": 0.44
+    },
+    {
+        "est_ID": 165,
+        "est_name": "ELDON NURSING & REHAB",
+        "Street": "1001 EAST NORTH STREET",
+        "City": "ELDON",
+        "State": "MO",
+        "zip": 65026,
+        "CR/RN/Day": 0.18
+    },
+    {
+        "est_ID": 166,
+        "est_name": "MANOR, THE",
+        "Street": "2071 BARRON RD",
+        "City": "POPLAR BLUFF",
+        "State": "MO",
+        "zip": 63901,
+        "CR/RN/Day": 0.22
+    },
+    {
+        "est_ID": 167,
+        "est_name": "SEVILLE CARE CENTER",
+        "Street": "HIGHWAY 72, PO BOX 746",
+        "City": "SALEM",
+        "State": "MO",
+        "zip": 65560,
+        "CR/RN/Day": 0.22
+    },
+    {
+        "est_ID": 168,
+        "est_name": "CHRISTIAN HEALTH AND REHAB OF LEBANON SOUTH",
+        "Street": "514 WEST FREMONT ROAD",
+        "City": "LEBANON",
+        "State": "MO",
+        "zip": 65536,
+        "CR/RN/Day": 0.32
+    },
+    {
+        "est_ID": 169,
+        "est_name": "DELMAR GARDENS OF CHESTERFIELD",
+        "Street": "14855 NORTH OUTER 40 ROAD",
+        "City": "CHESTERFIELD",
+        "State": "MO",
+        "zip": 63017,
+        "CR/RN/Day": 0.28
+    },
+    {
+        "est_ID": 170,
+        "est_name": "LEXINGTON CARE CENTER",
+        "Street": "1221 SOUTH HIGHWAY 13",
+        "City": "LEXINGTON",
+        "State": "MO",
+        "zip": 64067,
+        "CR/RN/Day": 0.28
+    },
+    {
+        "est_ID": 171,
+        "est_name": "HEARTLAND OF WILLOW LANE",
+        "Street": "416 SOUTH HIGH STREET",
+        "City": "BUTLER",
+        "State": "MO",
+        "zip": 64730,
+        "CR/RN/Day": 0.55
+    },
+    {
+        "est_ID": 172,
+        "est_name": "RIVERVIEW NURSING CENTER",
+        "Street": "10303 STATE ROAD C",
+        "City": "MOKANE",
+        "State": "MO",
+        "zip": 65059,
+        "CR/RN/Day": 0.37
+    },
+    {
+        "est_ID": 173,
+        "est_name": "BAISCH NURSING CENTER",
+        "Street": "3260 BAISCH DRIVE",
+        "City": "DE SOTO",
+        "State": "MO",
+        "zip": 63020,
+        "CR/RN/Day": 0.35
+    },
+    {
+        "est_ID": 174,
+        "est_name": "CLEARVIEW NURSING CENTER",
+        "Street": "430 SALCEDO ROAD",
+        "City": "SIKESTON",
+        "State": "MO",
+        "zip": 63801,
+        "CR/RN/Day": 0.32
+    },
+    {
+        "est_ID": 175,
+        "est_name": "DELMAR GARDENS ON THE GREEN",
+        "Street": "15197 CLAYTON ROAD",
+        "City": "CHESTERFIELD",
+        "State": "MO",
+        "zip": 63017,
+        "CR/RN/Day": 0.32
+    },
+    {
+        "est_ID": 176,
+        "est_name": "FESTUS MANOR",
+        "Street": "627 WESTWOOD SOUTH DRIVE",
+        "City": "FESTUS",
+        "State": "MO",
+        "zip": 63028,
+        "CR/RN/Day": 0.3
+    },
+    {
+        "est_ID": 177,
+        "est_name": "GOLDEN LIVINGCENTER-MCDONALD COUNTY",
+        "Street": "1000 PATTERSON STREET",
+        "City": "ANDERSON",
+        "State": "MO",
+        "zip": 64831,
+        "CR/RN/Day": 0.37
+    },
+    {
+        "est_ID": 178,
+        "est_name": "WEBB CITY HEALTH AND REHABILITATION CENTER",
+        "Street": "2077 STADIUM DRIVE",
+        "City": "WEBB CITY",
+        "State": "MO",
+        "zip": 64870,
+        "CR/RN/Day": 0.22
+    },
+    {
+        "est_ID": 179,
+        "est_name": "MINER NURSING CENTER",
+        "Street": "410 H ROAD",
+        "City": "MINER",
+        "State": "MO",
+        "zip": 63801,
+        "CR/RN/Day": 0.33
+    },
+    {
+        "est_ID": 180,
+        "est_name": "GRANDVIEW HEALTHCARE CENTER",
+        "Street": "201 GRAND AVE",
+        "City": "WASHINGTON",
+        "State": "MO",
+        "zip": 63090,
+        "CR/RN/Day": 0.31
+    },
+    {
+        "est_ID": 181,
+        "est_name": "VILLA MARIE-A STONEBRest_IDGE COMMUNITY",
+        "Street": "1030 EDMONDS STREET",
+        "City": "JEFFERSON CITY",
+        "State": "MO",
+        "zip": 65109,
+        "CR/RN/Day": 0.31
+    },
+    {
+        "est_ID": 182,
+        "est_name": "ARMOUR OAKS SENIOR LIVING COMMUNITY",
+        "Street": "8100 WORNALL ROAD",
+        "City": "KANSAS CITY",
+        "State": "MO",
+        "zip": 64114,
+        "CR/RN/Day": 0.29
+    },
+    {
+        "est_ID": 183,
+        "est_name": "BENCHMARK HEALTHCARE OF LEE'S SUMMIT",
+        "Street": "1501 SOUTHWEST THIRD STREET",
+        "City": "LEES SUMMIT",
+        "State": "MO",
+        "zip": 64081,
+        "CR/RN/Day": 0.38
+    },
+    {
+        "est_ID": 184,
+        "est_name": "REHABILITATION CENTER OF INDEPENDENCE, THE",
+        "Street": "1800 S SWOPE DRIVE",
+        "City": "INDEPENDENCE",
+        "State": "MO",
+        "zip": 64057,
+        "CR/RN/Day": 0.36
+    },
+    {
+        "est_ID": 185,
+        "est_name": "TARKIO REHABILITATION & HEALTH CARE",
+        "Street": "300 CEDAR STREET",
+        "City": "TARKIO",
+        "State": "MO",
+        "zip": 64491,
+        "CR/RN/Day": 0.41
+    },
+    {
+        "est_ID": 186,
+        "est_name": "GOLDEN LIVINGCENTER-COLONIAL MANOR OF ALBANY",
+        "Street": "1405 EAST HIGHWAY 136",
+        "City": "ALBANY",
+        "State": "MO",
+        "zip": 64402,
+        "CR/RN/Day": 0.57
+    },
+    {
+        "est_ID": 187,
+        "est_name": "NEW FLORENCE NURSING AND CARE CENTER",
+        "Street": "515 PICNIC STREET",
+        "City": "NEW FLORENCE",
+        "State": "MO",
+        "zip": 63363,
+        "CR/RN/Day": 0.23
+    },
+    {
+        "est_ID": 188,
+        "est_name": "GOOD SAMARITAN CARE CENTER",
+        "Street": "403 WEST MAIN",
+        "City": "COLE CAMP",
+        "State": "MO",
+        "zip": 65325,
+        "CR/RN/Day": 0.37
+    },
+    {
+        "est_ID": 189,
+        "est_name": "WESTSest_IDE HEALTH CARE",
+        "Street": "3403 WEST MT VERNON",
+        "City": "SPRINGFIELD",
+        "State": "MO",
+        "zip": 65802,
+        "CR/RN/Day": 0.35
+    },
+    {
+        "est_ID": 190,
+        "est_name": "EASTVIEW MANOR CARE CENTER",
+        "Street": "1622 EAST 28TH STREET",
+        "City": "TRENTON",
+        "State": "MO",
+        "zip": 64683,
+        "CR/RN/Day": 0.42
+    },
+    {
+        "est_ID": 191,
+        "est_name": "CURRENT RIVER NURSING CENTER, INC",
+        "Street": "1015  NORTH GRAND AVENUE",
+        "City": "DONIPHAN",
+        "State": "MO",
+        "zip": 63935,
+        "CR/RN/Day": 0.28
+    },
+    {
+        "est_ID": 192,
+        "est_name": "GRAND MANOR NURSING & REHABILITATION CENTER",
+        "Street": "3645 COOK AVE",
+        "City": "SAINT LOUIS",
+        "State": "MO",
+        "zip": 63113,
+        "CR/RN/Day": 0.28
+    },
+    {
+        "est_ID": 193,
+        "est_name": "SOUTH COUNTY NURSING HOME INC",
+        "Street": "1101 WEST OUTER 21 ROAD",
+        "City": "ARNOLD",
+        "State": "MO",
+        "zip": 63010,
+        "CR/RN/Day": 0.19
+    },
+    {
+        "est_ID": 194,
+        "est_name": "FRENE VALLEY HEALTHCARE SOUTH",
+        "Street": "1016 HWY 28 WEST, PO BOX 593",
+        "City": "OWENSVILLE",
+        "State": "MO",
+        "zip": 65066,
+        "CR/RN/Day": 0.24
+    },
+    {
+        "est_ID": 195,
+        "est_name": "HUNTER ACRES CARING CENTER",
+        "Street": "628 NORTH WEST STREET",
+        "City": "SIKESTON",
+        "State": "MO",
+        "zip": 63801,
+        "CR/RN/Day": 0.27
+    },
+    {
+        "est_ID": 196,
+        "est_name": "SUNSET HEALTH CARE CENTER",
+        "Street": "400 WEST PARK AVENUE",
+        "City": "UNION",
+        "State": "MO",
+        "zip": 63084,
+        "CR/RN/Day": 0.27
+    },
+    {
+        "est_ID": 197,
+        "est_name": "BELLEVIEW VALLEY NURSING HOME",
+        "Street": "23144 HIGHWAY 32",
+        "City": "BELLEVIEW",
+        "State": "MO",
+        "zip": 63623,
+        "CR/RN/Day": 0.3
+    },
+    {
+        "est_ID": 198,
+        "est_name": "ASH GROVE HEALTHCARE FACILITY",
+        "Street": "401 NORTH MEDICAL DRIVE, PO BOX 247",
+        "City": "ASH GROVE",
+        "State": "MO",
+        "zip": 65604,
+        "CR/RN/Day": 0.45
+    },
+    {
+        "est_ID": 199,
+        "est_name": "BENCHMARK HEALTHCARE OF PORTAGEVILLE, LLC",
+        "Street": "290 W STATE HIGHWAY 162, PO BOX 408",
+        "City": "PORTAGEVILLE",
+        "State": "MO",
+        "zip": 63873,
+        "CR/RN/Day": 0.45
+    },
+    {
+        "est_ID": 200,
+        "est_name": "CUBA MANOR INC",
+        "Street": "210 ELDON DRIVE",
+        "City": "CUBA",
+        "State": "MO",
+        "zip": 65453,
+        "CR/RN/Day": 0.33
+    },
+    {
+        "est_ID": 201,
+        "est_name": "FORSYTH CARE CENTER",
+        "Street": "477 COY BLVD, PO BOX 640",
+        "City": "FORSYTH",
+        "State": "MO",
+        "zip": 65653,
+        "CR/RN/Day": 0.33
+    },
+    {
+        "est_ID": 202,
+        "est_name": "TIMBERLAKE CARE CENTER",
+        "Street": "12110 HOLMES ROAD",
+        "City": "KANSAS CITY",
+        "State": "MO",
+        "zip": 64145,
+        "CR/RN/Day": 0.23
+    },
+    {
+        "est_ID": 203,
+        "est_name": "AURORA NURSING CENTER",
+        "Street": "1700 SOUTH HUDSON AVENUE",
+        "City": "AURORA",
+        "State": "MO",
+        "zip": 65605,
+        "CR/RN/Day": 0.41
+    },
+    {
+        "est_ID": 204,
+        "est_name": "TABLEROCK HEALTHCARE",
+        "Street": "276 FOUNTAIN LANE",
+        "City": "KIMBERLING CITY",
+        "State": "MO",
+        "zip": 65686,
+        "CR/RN/Day": 0.52
+    },
+    {
+        "est_ID": 205,
+        "est_name": "ASHTON COURT CARE AND REHABILITATION CENTRE",
+        "Street": "1200 WEST COLLEGE STREET",
+        "City": "LIBERTY",
+        "State": "MO",
+        "zip": 64068,
+        "CR/RN/Day": 0.24
+    },
+    {
+        "est_ID": 206,
+        "est_name": "LAKEVIEW HEALTH CARE & REHABILITATION CENTER",
+        "Street": "1450 ASHLEY ROAD",
+        "City": "BOONVILLE",
+        "State": "MO",
+        "zip": 65233,
+        "CR/RN/Day": 0.24
+    },
+    {
+        "est_ID": 207,
+        "est_name": "VILLAGES OF ST PETERS, THE",
+        "Street": "5400 EXECUTIVE CENTRE PARKWAY",
+        "City": "SAINT PETERS",
+        "State": "MO",
+        "zip": 63376,
+        "CR/RN/Day": 0.35
+    },
+    {
+        "est_ID": 208,
+        "est_name": "MOBERLY NURSING & REHAB",
+        "Street": "700 EAST URBANDALE DRIVE",
+        "City": "MOBERLY",
+        "State": "MO",
+        "zip": 65270,
+        "CR/RN/Day": 0.19
+    },
+    {
+        "est_ID": 209,
+        "est_name": "CEDARGATE, THE",
+        "Street": "2350 KANELL BLVD, HWY PP",
+        "City": "POPLAR BLUFF",
+        "State": "MO",
+        "zip": 63901,
+        "CR/RN/Day": 0.3
+    },
+    {
+        "est_ID": 210,
+        "est_name": "VILLAGE CARE CENTER INC",
+        "Street": "810 EAST EDWARDS STREET",
+        "City": "MARYVILLE",
+        "State": "MO",
+        "zip": 64468,
+        "CR/RN/Day": 0.47
+    },
+    {
+        "est_ID": 211,
+        "est_name": "SWEET SPRINGS VILLA",
+        "Street": "518 E MARSHALL",
+        "City": "SWEET SPRINGS",
+        "State": "MO",
+        "zip": 65351,
+        "CR/RN/Day": 0.25
+    },
+    {
+        "est_ID": 212,
+        "est_name": "CHRISTIAN HEALTH AND REHABILITATION OF NEVADA",
+        "Street": "700 EAST HIGHLAND AVENUE",
+        "City": "NEVADA",
+        "State": "MO",
+        "zip": 64772,
+        "CR/RN/Day": 0.28
+    },
+    {
+        "est_ID": 213,
+        "est_name": "MACON HEALTH CARE CENTER",
+        "Street": "29612 KELLOGG AVENUE, PO BOX 465",
+        "City": "MACON",
+        "State": "MO",
+        "zip": 63552,
+        "CR/RN/Day": 0.56
+    },
+    {
+        "est_ID": 214,
+        "est_name": "DADE COUNTY NURSING HOME DISTRICT",
+        "Street": "400 BROAD",
+        "City": "GREENFIELD",
+        "State": "MO",
+        "zip": 65661,
+        "CR/RN/Day": 0.2
+    },
+    {
+        "est_ID": 215,
+        "est_name": "GOLDEN LIVINGCENTER-ST JAMES",
+        "Street": "415 Sest_IDNEY STREET, PO BOX 69",
+        "City": "SAINT JAMES",
+        "State": "MO",
+        "zip": 65559,
+        "CR/RN/Day": 0.66
+    },
+    {
+        "est_ID": 216,
+        "est_name": "BRUNSWICK NURSING HOME",
+        "Street": "721 WEST HARRISON",
+        "City": "BRUNSWICK",
+        "State": "MO",
+        "zip": 65236,
+        "CR/RN/Day": 0.29
+    },
+    {
+        "est_ID": 217,
+        "est_name": "SELLS REST HOME",
+        "Street": "609 SOUTH RAILROAD STREET",
+        "City": "MATTHEWS",
+        "State": "MO",
+        "zip": 63867,
+        "CR/RN/Day": 0.29
+    },
+    {
+        "est_ID": 218,
+        "est_name": "VALLEY MANOR AND REHABILITATION CENTER",
+        "Street": "1410 HOSPITAL DRIVE",
+        "City": "EXCELSIOR SPRINGS",
+        "State": "MO",
+        "zip": 64024,
+        "CR/RN/Day": 0.29
+    },
+    {
+        "est_ID": 219,
+        "est_name": "EAST PRAIRIE NURSING CENTER",
+        "Street": "186 MILLAR ROAD, PO BOX 299",
+        "City": "EAST PRAIRIE",
+        "State": "MO",
+        "zip": 63845,
+        "CR/RN/Day": 0.32
+    },
+    {
+        "est_ID": 220,
+        "est_name": "MARSHFIELD CARE CENTER",
+        "Street": "800 SOUTH WHITE OAK",
+        "City": "MARSHFIELD",
+        "State": "MO",
+        "zip": 65706,
+        "CR/RN/Day": 0.44
+    },
+    {
+        "est_ID": 221,
+        "est_name": "AVALON GARDEN",
+        "Street": "4359 TAFT AVENUE",
+        "City": "SAINT LOUIS",
+        "State": "MO",
+        "zip": 63116,
+        "CR/RN/Day": 0.24
+    },
+    {
+        "est_ID": 222,
+        "est_name": "CAMERON NURSING AND REHABILITATION CENTER",
+        "Street": "801 EUCLest_ID, PO BOX 438",
+        "City": "CAMERON",
+        "State": "MO",
+        "zip": 64429,
+        "CR/RN/Day": 0.46
+    },
+    {
+        "est_ID": 223,
+        "est_name": "CHRISTIAN HEALTH AND REHABILITATION OF HERMITAGE",
+        "Street": "FIRST AND HWY 54, PO BOX 325",
+        "City": "HERMITAGE",
+        "State": "MO",
+        "zip": 65668,
+        "CR/RN/Day": 0.37
+    },
+    {
+        "est_ID": 224,
+        "est_name": "CHARLEVOIX HEALTHCARE CENTER",
+        "Street": "1221 BOONSLICK ROAD",
+        "City": "SAINT CHARLES",
+        "State": "MO",
+        "zip": 63301,
+        "CR/RN/Day": 0.47
+    },
+    {
+        "est_ID": 225,
+        "est_name": "CEDARCREST MANOR",
+        "Street": "324 WEST 5TH STREET",
+        "City": "WASHINGTON",
+        "State": "MO",
+        "zip": 63090,
+        "CR/RN/Day": 0.19
+    },
+    {
+        "est_ID": 226,
+        "est_name": "GEORGIAN GARDENS",
+        "Street": "1 GEORGIAN GARDENS DRIVE",
+        "City": "POTOSI",
+        "State": "MO",
+        "zip": 63664,
+        "CR/RN/Day": 0.42
+    },
+    {
+        "est_ID": 227,
+        "est_name": "PINE VIEW MANOR INC",
+        "Street": "307 N PINEVIEW STREET",
+        "City": "STANBERRY",
+        "State": "MO",
+        "zip": 64489,
+        "CR/RN/Day": 0.43
+    },
+    {
+        "est_ID": 228,
+        "est_name": "OREGON CARE CENTER",
+        "Street": "501 MONROE,  PO BOX 19",
+        "City": "OREGON",
+        "State": "MO",
+        "zip": 64473,
+        "CR/RN/Day": 0.44
+    },
+    {
+        "est_ID": 229,
+        "est_name": "WEST VUE NURSING AND REHABILITATION CENTER",
+        "Street": "210 DAVIS DRIVE",
+        "City": "WEST PLAINS",
+        "State": "MO",
+        "zip": 65775,
+        "CR/RN/Day": 0.44
+    },
+    {
+        "est_ID": 230,
+        "est_name": "JACKSON MANOR NURSING HOME",
+        "Street": "710 BROADRest_IDGE",
+        "City": "JACKSON",
+        "State": "MO",
+        "zip": 63755,
+        "CR/RN/Day": 0.41
+    },
+    {
+        "est_ID": 231,
+        "est_name": "WOODLAND MANOR",
+        "Street": "1347 EAST VALLEY WATERMILL ROAD",
+        "City": "SPRINGFIELD",
+        "State": "MO",
+        "zip": 65803,
+        "CR/RN/Day": 0.24
+    },
+    {
+        "est_ID": 232,
+        "est_name": "HEARTLAND CARE AND REHABILITATION CENTER",
+        "Street": "2525 BOUTIN DRIVE",
+        "City": "CAPE GIRARDEAU",
+        "State": "MO",
+        "zip": 63701,
+        "CR/RN/Day": 0.31
+    },
+    {
+        "est_ID": 233,
+        "est_name": "LUTHER MANOR RETIREMENT & NURSING CENTER",
+        "Street": "3170 HIGHWAY 61 NORTH",
+        "City": "HANNIBAL",
+        "State": "MO",
+        "zip": 63401,
+        "CR/RN/Day": 0.21
+    },
+    {
+        "est_ID": 234,
+        "est_name": "HOUSTON HOUSE",
+        "Street": "1000 NORTH  INDUSTRIAL DRIVE, PO BOX 199",
+        "City": "HOUSTON",
+        "State": "MO",
+        "zip": 65483,
+        "CR/RN/Day": 0.35
+    },
+    {
+        "est_ID": 235,
+        "est_name": "COLUMBIA HEALTHCARE CENTER",
+        "Street": "1801 TOWNE DRIVE",
+        "City": "COLUMBIA",
+        "State": "MO",
+        "zip": 65202,
+        "CR/RN/Day": 0.64
+    },
+    {
+        "est_ID": 236,
+        "est_name": "WARSAW HEALTH AND REHABILITATION CENTER",
+        "Street": "1609 SUNCHASE DRIVE",
+        "City": "WARSAW",
+        "State": "MO",
+        "zip": 65355,
+        "CR/RN/Day": 0.29
+    },
+    {
+        "est_ID": 237,
+        "est_name": "GOLDEN YEARS",
+        "Street": "2001 JEFFERSON PARKWAY",
+        "City": "HARRISONVILLE",
+        "State": "MO",
+        "zip": 64701,
+        "CR/RN/Day": 0.26
+    },
+    {
+        "est_ID": 238,
+        "est_name": "MOUNTAIN VIEW HEALTHCARE",
+        "Street": "1211 NORTH ASH STREET, PO BOX 879",
+        "City": "MOUNTAIN VIEW",
+        "State": "MO",
+        "zip": 65548,
+        "CR/RN/Day": 0.3
+    },
+    {
+        "est_ID": 239,
+        "est_name": "AUTUMN OAKS CARING CENTER",
+        "Street": "1310 HOVIS STREET, PO BOX 804",
+        "City": "MOUNTAIN GROVE",
+        "State": "MO",
+        "zip": 65711,
+        "CR/RN/Day": 0.34
+    },
+    {
+        "est_ID": 240,
+        "est_name": "GOLDEN AGE NURSING HOME",
+        "Street": "12498 SE HIGHWAY 116",
+        "City": "BRAYMER",
+        "State": "MO",
+        "zip": 64624,
+        "CR/RN/Day": 0.53
+    },
+    {
+        "est_ID": 241,
+        "est_name": "BENT- WOOD NURSING CENTER",
+        "Street": "1501 CHARBONIER ROAD",
+        "City": "FLORISSANT",
+        "State": "MO",
+        "zip": 63031,
+        "CR/RN/Day": 0.23
+    },
+    {
+        "est_ID": 242,
+        "est_name": "GOOD SHEPHERD NURSING HOME",
+        "Street": "200 W 12TH",
+        "City": "LOCKWOOD",
+        "State": "MO",
+        "zip": 65682,
+        "CR/RN/Day": 0.47
+    },
+    {
+        "est_ID": 243,
+        "est_name": "TIFFANY HEIGHTS",
+        "Street": "1531 NEBRASKA STREET, PO BOX 308",
+        "City": "MOUND CITY",
+        "State": "MO",
+        "zip": 64470,
+        "CR/RN/Day": 0.44
+    },
+    {
+        "est_ID": 244,
+        "est_name": "SUNSET VILLAGE OF THE OZARKS INC",
+        "Street": "14275 HIGHWAY Z",
+        "City": "SAINT ROBERT",
+        "State": "MO",
+        "zip": 65584,
+        "CR/RN/Day": 0.32
+    },
+    {
+        "est_ID": 245,
+        "est_name": "MOORE-PIKE NURSING HOME",
+        "Street": "300 SOUTH ST CHARLES STREET",
+        "City": "BOWLING GREEN",
+        "State": "MO",
+        "zip": 63334,
+        "CR/RN/Day": 0.28
+    },
+    {
+        "est_ID": 246,
+        "est_name": "GOLDEN AGE LIVING CENTER",
+        "Street": "404 E THIRD STREET, PO BOX 307",
+        "City": "STOVER",
+        "State": "MO",
+        "zip": 65078,
+        "CR/RN/Day": 0.43
+    },
+    {
+        "est_ID": 247,
+        "est_name": "GARRISON CARE CENTER",
+        "Street": "2939 MAGAZINE AVE",
+        "City": "SAINT LOUIS",
+        "State": "MO",
+        "zip": 63106,
+        "CR/RN/Day": 0.26
+    },
+    {
+        "est_ID": 248,
+        "est_name": "LAKESest_IDE MEADOWS-A STONEBRest_IDGE COMMUNITY",
+        "Street": "872 COLLEGE BOULEVARD",
+        "City": "OSAGE BEACH",
+        "State": "MO",
+        "zip": 65065,
+        "CR/RN/Day": 0.48
+    },
+    {
+        "est_ID": 249,
+        "est_name": "NODAWAY NURSING HOME",
+        "Street": "22371 STATE HIGHWAY 46, PO BOX 307",
+        "City": "MARYVILLE",
+        "State": "MO",
+        "zip": 64468,
+        "CR/RN/Day": 0.45
+    },
+    {
+        "est_ID": 250,
+        "est_name": "MARK TWAIN CARING CENTER",
+        "Street": "3001 MAY STREET",
+        "City": "POPLAR BLUFF",
+        "State": "MO",
+        "zip": 63901,
+        "CR/RN/Day": 0.18
+    },
+    {
+        "est_ID": 251,
+        "est_name": "WESTWOOD HILLS HEALTH & REHABILITATION CENTER",
+        "Street": "3100 WARRIOR LANE, PO BOX 1328",
+        "City": "POPLAR BLUFF",
+        "State": "MO",
+        "zip": 63901,
+        "CR/RN/Day": 0.37
+    },
+    {
+        "est_ID": 252,
+        "est_name": "ST JOHNS PLACE",
+        "Street": "3333 BROWN ROAD",
+        "City": "SAINT LOUIS",
+        "State": "MO",
+        "zip": 63114,
+        "CR/RN/Day": 0.24
+    },
+    {
+        "est_ID": 253,
+        "est_name": "CITIZENS MEMORIAL HEALTHCARE FACILITY",
+        "Street": "1218 WEST LOCUST, PO BOX 590",
+        "City": "BOLIVAR",
+        "State": "MO",
+        "zip": 65613,
+        "CR/RN/Day": 0.29
+    },
+    {
+        "est_ID": 254,
+        "est_name": "JAMES RIVER CARE AND REHABILITATION CENTER, INC",
+        "Street": "3550 EAST BATTLEFIELD",
+        "City": "SPRINGFIELD",
+        "State": "MO",
+        "zip": 65809,
+        "CR/RN/Day": 0.41
+    },
+    {
+        "est_ID": 255,
+        "est_name": "GRAND RIVER HEALTH CARE",
+        "Street": "118 TRENTON ROAD",
+        "City": "CHILLICOTHE",
+        "State": "MO",
+        "zip": 64601,
+        "CR/RN/Day": 0.53
+    },
+    {
+        "est_ID": 256,
+        "est_name": "SPRING RIVER CHRISTIAN VILLAGE INC",
+        "Street": "201 SOUTH NORTHPARK LANE",
+        "City": "JOPLIN",
+        "State": "MO",
+        "zip": 64801,
+        "CR/RN/Day": 0.43
+    },
+    {
+        "est_ID": 257,
+        "est_name": "PACIFIC CARE CENTER LLC",
+        "Street": "105 SOUTH SIXTH STREET",
+        "City": "PACIFIC",
+        "State": "MO",
+        "zip": 63069,
+        "CR/RN/Day": 0.38
+    },
+    {
+        "est_ID": 258,
+        "est_name": "WESTCHESTER HOUSE, THE",
+        "Street": "550 WHITE ROAD",
+        "City": "CHESTERFIELD",
+        "State": "MO",
+        "zip": 63017,
+        "CR/RN/Day": 0.55
+    },
+    {
+        "est_ID": 259,
+        "est_name": "SILEX COMMUNITY CARE",
+        "Street": "111 DUNCAN MANSION ROAD",
+        "City": "SILEX",
+        "State": "MO",
+        "zip": 63377,
+        "CR/RN/Day": 0.34
+    },
+    {
+        "est_ID": 260,
+        "est_name": "NHC HEALTHCARE, JOPLIN",
+        "Street": "2700 EAST 34TH STREET,  PO BOX 2877",
+        "City": "JOPLIN",
+        "State": "MO",
+        "zip": 64803,
+        "CR/RN/Day": 0.46
+    },
+    {
+        "est_ID": 261,
+        "est_name": "LIVING CENTER, THE",
+        "Street": "2506 LINDEN TREE PARKWAY,  PO BOX 370",
+        "City": "MARSHALL",
+        "State": "MO",
+        "zip": 65340,
+        "CR/RN/Day": 0.65
+    },
+    {
+        "est_ID": 262,
+        "est_name": "AUTUMN MEADOWS",
+        "Street": "196 HIGHWAY CC",
+        "City": "LINN",
+        "State": "MO",
+        "zip": 65051,
+        "CR/RN/Day": 0.36
+    },
+    {
+        "est_ID": 263,
+        "est_name": "HILLCREST CARE CENTER INC",
+        "Street": "1108 CLARKE STREET",
+        "City": "DE SOTO",
+        "State": "MO",
+        "zip": 63020,
+        "CR/RN/Day": 0.3
+    },
+    {
+        "est_ID": 264,
+        "est_name": "DELMAR GARDENS WEST",
+        "Street": "13550 SOUTH OUTER 40 ROAD",
+        "City": "TOWN AND COUNTRY",
+        "State": "MO",
+        "zip": 63017,
+        "CR/RN/Day": 0.37
+    },
+    {
+        "est_ID": 265,
+        "est_name": "NHC HEALTHCARE, MARYLAND HEIGHTS",
+        "Street": "2920 FEE FEE ROAD",
+        "City": "MARYLAND HEIGHTS",
+        "State": "MO",
+        "zip": 63043,
+        "CR/RN/Day": 0.38
+    },
+    {
+        "est_ID": 266,
+        "est_name": "SHADY OAKS HEALTHCARE CENTER",
+        "Street": "715 S STATE ROUTE 19",
+        "City": "THAYER",
+        "State": "MO",
+        "zip": 65791,
+        "CR/RN/Day": 0.32
+    },
+    {
+        "est_ID": 267,
+        "est_name": "CALIFORNIA CARE CENTER",
+        "Street": "1106 SOUTH OAK",
+        "City": "CALIFORNIA",
+        "State": "MO",
+        "zip": 65018,
+        "CR/RN/Day": 0.26
+    },
+    {
+        "est_ID": 268,
+        "est_name": "PILLARS OF NORTH COUNTY HEALTH & REHAB CENTER, THE",
+        "Street": "13700 OLD HALLS FERRY ROAD",
+        "City": "FLORISSANT",
+        "State": "MO",
+        "zip": 63033,
+        "CR/RN/Day": 0.33
+    },
+    {
+        "est_ID": 269,
+        "est_name": "COLONIAL SPRINGS HEALTHCARE CENTER",
+        "Street": "750 WEST COOPER, PO BOX 978",
+        "City": "BUFFALO",
+        "State": "MO",
+        "zip": 65622,
+        "CR/RN/Day": 0.47
+    },
+    {
+        "est_ID": 270,
+        "est_name": "QUARTERS AT DES PERES, THE",
+        "Street": "13230 MANCHESTER ROAD",
+        "City": "DES PERES",
+        "State": "MO",
+        "zip": 63131,
+        "CR/RN/Day": 0.41
+    },
+    {
+        "est_ID": 271,
+        "est_name": "DELMAR GARDENS NORTH",
+        "Street": "4401 PARKER ROAD",
+        "City": "FLORISSANT",
+        "State": "MO",
+        "zip": 63033,
+        "CR/RN/Day": 0.22
+    },
+    {
+        "est_ID": 272,
+        "est_name": "SIKESTON CONVALESCENT CENTER",
+        "Street": "103 KENNEDY DRIVE",
+        "City": "SIKESTON",
+        "State": "MO",
+        "zip": 63801,
+        "CR/RN/Day": 0.31
+    },
+    {
+        "est_ID": 273,
+        "est_name": "LIFE CARE CENTER OF CARROLLTON",
+        "Street": "300 LIFE CARE LANE",
+        "City": "CARROLLTON",
+        "State": "MO",
+        "zip": 64633,
+        "CR/RN/Day": 0.63
+    },
+    {
+        "est_ID": 274,
+        "est_name": "LIVINGSTON MANOR CARE CENTER",
+        "Street": "939 EAST BIRCH",
+        "City": "CHILLICOTHE",
+        "State": "MO",
+        "zip": 64601,
+        "CR/RN/Day": 0.64
+    },
+    {
+        "est_ID": 275,
+        "est_name": "HEART OF THE OZARKS HEALTHCARE CENTER",
+        "Street": "2004 CRESTVIEW STREET, PO BOX 727",
+        "City": "AVA",
+        "State": "MO",
+        "zip": 65608,
+        "CR/RN/Day": 0.56
+    },
+    {
+        "est_ID": 276,
+        "est_name": "GENERAL BAPTIST NURSING HOME",
+        "Street": "17108 US HIGHWAY 62",
+        "City": "CAMPBELL",
+        "State": "MO",
+        "zip": 63933,
+        "CR/RN/Day": 0.41
+    },
+    {
+        "est_ID": 277,
+        "est_name": "PUXICO NURSING AND REHABILITATION CENTER",
+        "Street": "540 NORTH HIGHWAY 51",
+        "City": "PUXICO",
+        "State": "MO",
+        "zip": 63960,
+        "CR/RN/Day": 0.34
+    },
+    {
+        "est_ID": 278,
+        "est_name": "ALEXIAN BROS LANSDOWNE VILLAGE",
+        "Street": "4624 LANSDOWNE AVENUE",
+        "City": "SAINT LOUIS",
+        "State": "MO",
+        "zip": 63116,
+        "CR/RN/Day": 0.52
+    },
+    {
+        "est_ID": 279,
+        "est_name": "HARTVILLE CARE AND REHABILITATION CENTER, INC",
+        "Street": "649 WEST ROLLA STREET",
+        "City": "HARTVILLE",
+        "State": "MO",
+        "zip": 65667,
+        "CR/RN/Day": 0.36
+    },
+    {
+        "est_ID": 280,
+        "est_name": "CLARENCE CARE CENTER",
+        "Street": "111 EAST STREET",
+        "City": "CLARENCE",
+        "State": "MO",
+        "zip": 63437,
+        "CR/RN/Day": 0.54
+    },
+    {
+        "est_ID": 281,
+        "est_name": "LIFE CARE CENTER OF BRest_IDGETON",
+        "Street": "12145 BRest_IDGETON SQUARE DR",
+        "City": "BRest_IDGETON",
+        "State": "MO",
+        "zip": 63044,
+        "CR/RN/Day": 0.95
+    },
+    {
+        "est_ID": 282,
+        "est_name": "MONITEAU CARE CENTER",
+        "Street": "200 SOUTH GERHART",
+        "City": "CALIFORNIA",
+        "State": "MO",
+        "zip": 65018,
+        "CR/RN/Day": 0.2
+    },
+    {
+        "est_ID": 283,
+        "est_name": "LINCOLN COUNTY NURSING & REHAB",
+        "Street": "1145 EAST CHERRY STREET, PO BOX 130",
+        "City": "TROY",
+        "State": "MO",
+        "zip": 63379,
+        "CR/RN/Day": 0.31
+    },
+    {
+        "est_ID": 284,
+        "est_name": "OAK KNOLL NURSING HOME",
+        "Street": "37 NORTH CLARK AVENUE",
+        "City": "FERGUSON",
+        "State": "MO",
+        "zip": 63135,
+        "CR/RN/Day": 0.31
+    },
+    {
+        "est_ID": 285,
+        "est_name": "FRENE VALLEY HEALTH CENTER",
+        "Street": "1800 WEIN STREET, PO BOX 468",
+        "City": "HERMANN",
+        "State": "MO",
+        "zip": 65041,
+        "CR/RN/Day": 0.21
+    },
+    {
+        "est_ID": 286,
+        "est_name": "CHRISTIAN HEALTH AND REHAB OF SPRINGFIELD EAST",
+        "Street": "3535 EAST CHEROKEE",
+        "City": "SPRINGFIELD",
+        "State": "MO",
+        "zip": 65809,
+        "CR/RN/Day": 0.43
+    },
+    {
+        "est_ID": 287,
+        "est_name": "PARKVIEW HEALTH CARE FACILITY",
+        "Street": "119 WEST FOREST",
+        "City": "BOLIVAR",
+        "State": "MO",
+        "zip": 65613,
+        "CR/RN/Day": 0.56
+    },
+    {
+        "est_ID": 288,
+        "est_name": "COUNTRY MEADOWS",
+        "Street": "1301 N ST JOE DRIVE",
+        "City": "PARK HILLS",
+        "State": "MO",
+        "zip": 63601,
+        "CR/RN/Day": 0.34
+    },
+    {
+        "est_ID": 289,
+        "est_name": "NEW MARK CARE CENTER",
+        "Street": "11221 NORTH NASHUA DRIVE",
+        "City": "KANSAS CITY",
+        "State": "MO",
+        "zip": 64155,
+        "CR/RN/Day": 0.61
+    },
+    {
+        "est_ID": 290,
+        "est_name": "FULTON NURSING & REHAB",
+        "Street": "1510 NORTH BLUFF STREET",
+        "City": "FULTON",
+        "State": "MO",
+        "zip": 65251,
+        "CR/RN/Day": 0.25
+    },
+    {
+        "est_ID": 291,
+        "est_name": "OSAGE BEACH REHABILITATION AND HEALTH CARE CENTER",
+        "Street": "844 PASSOVER ROAD, PO BOX 659",
+        "City": "OSAGE BEACH",
+        "State": "MO",
+        "zip": 65065,
+        "CR/RN/Day": 0.51
+    },
+    {
+        "est_ID": 292,
+        "est_name": "CORI MANOR HEALTHCARE & REHABILITATION CENTER",
+        "Street": "560 CORISANDE HILL ROAD",
+        "City": "FENTON",
+        "State": "MO",
+        "zip": 63026,
+        "CR/RN/Day": 0.27
+    },
+    {
+        "est_ID": 293,
+        "est_name": "DAVIESS COUNTY NURSING AND REHABILITATION",
+        "Street": "1337 WEST GRAND",
+        "City": "GALLATIN",
+        "State": "MO",
+        "zip": 64640,
+        "CR/RN/Day": 0.41
+    },
+    {
+        "est_ID": 294,
+        "est_name": "WEST COUNTY CARE CENTER",
+        "Street": "312 SOLLEY DRIVE",
+        "City": "BALLWIN",
+        "State": "MO",
+        "zip": 63021,
+        "CR/RN/Day": 0.59
+    },
+    {
+        "est_ID": 295,
+        "est_name": "MONROE MANOR",
+        "Street": "200 SOUTH ST",
+        "City": "PARIS",
+        "State": "MO",
+        "zip": 65275,
+        "CR/RN/Day": 0.45
+    },
+    {
+        "est_ID": 296,
+        "est_name": "SENECA HOUSE",
+        "Street": "914 CHICKESAW STREET,  PO BOX 1049",
+        "City": "SENECA",
+        "State": "MO",
+        "zip": 64865,
+        "CR/RN/Day": 0.45
+    },
+    {
+        "est_ID": 297,
+        "est_name": "PARKWAY HEALTH AND REHAB",
+        "Street": "2323 SWOPE PARKWAY",
+        "City": "KANSAS CITY",
+        "State": "MO",
+        "zip": 64130,
+        "CR/RN/Day": 0.36
+    },
+    {
+        "est_ID": 298,
+        "est_name": "ADVANCE NURSING CENTER",
+        "Street": "315 SOUTH TILLEY STREET",
+        "City": "ADVANCE",
+        "State": "MO",
+        "zip": 63730,
+        "CR/RN/Day": 0.43
+    },
+    {
+        "est_ID": 299,
+        "est_name": "WINDSOR HEALTHCARE & REHAB CENTER",
+        "Street": "809 WEST BENTON, PO BOX 5",
+        "City": "WINDSOR",
+        "State": "MO",
+        "zip": 65360,
+        "CR/RN/Day": 0.47
+    },
+    {
+        "est_ID": 300,
+        "est_name": "LIFE CARE CENTER OF BROOKFIELD",
+        "Street": "315 HUNT STREET",
+        "City": "BROOKFIELD",
+        "State": "MO",
+        "zip": 64628,
+        "CR/RN/Day": 0.73
+    },
+    {
+        "est_ID": 301,
+        "est_name": "MAPLES HEALTH AND REHABILITATION, THE",
+        "Street": "1115 EAST PRIMROSE STREET",
+        "City": "SPRINGFIELD",
+        "State": "MO",
+        "zip": 65807,
+        "CR/RN/Day": 0.25
+    },
+    {
+        "est_ID": 302,
+        "est_name": "BENCHMARK HEALTHCARE OF RAYTOWN",
+        "Street": "6124 RAYTOWN ROAD",
+        "City": "RAYTOWN",
+        "State": "MO",
+        "zip": 64133,
+        "CR/RN/Day": 0.28
+    },
+    {
+        "est_ID": 303,
+        "est_name": "ROSEWOOD CARE CENTER OF ST LOUIS",
+        "Street": "11278 SCHUETZ ROAD",
+        "City": "SAINT LOUIS",
+        "State": "MO",
+        "zip": 63146,
+        "CR/RN/Day": 0.56
+    },
+    {
+        "est_ID": 304,
+        "est_name": "TRUMAN HEALTHCARE & REHABILITATION CENTER",
+        "Street": "206 WEST FIRST STREET",
+        "City": "LAMAR",
+        "State": "MO",
+        "zip": 64759,
+        "CR/RN/Day": 0.57
+    },
+    {
+        "est_ID": 305,
+        "est_name": "ADAMS STREET -A STONEBRest_IDGE COMMUNITY",
+        "Street": "1024 ADAMS STREET",
+        "City": "JEFFERSON CITY",
+        "State": "MO",
+        "zip": 65101,
+        "CR/RN/Day": 0.58
+    },
+    {
+        "est_ID": 306,
+        "est_name": "Rest_IDGE CREST NURSING CENTER",
+        "Street": "706 SOUTH MITCHELL",
+        "City": "WARRENSBURG",
+        "State": "MO",
+        "zip": 64093,
+        "CR/RN/Day": 0.34
+    },
+    {
+        "est_ID": 307,
+        "est_name": "LICKING PARK MANOR",
+        "Street": "209 HICKORY STREET",
+        "City": "LICKING",
+        "State": "MO",
+        "zip": 65542,
+        "CR/RN/Day": 0.35
+    },
+    {
+        "est_ID": 308,
+        "est_name": "BENCHMARK HEALTHCARE OF GREENVILLE, LLC",
+        "Street": "SYCAMORE STREET, PO BOX 108",
+        "City": "GREENVILLE",
+        "State": "MO",
+        "zip": 63944,
+        "CR/RN/Day": 0.5
+    },
+    {
+        "est_ID": 309,
+        "est_name": "NHC HEALTHCARE, KENNETT",
+        "Street": "1120 FALCON,  PO BOX 696",
+        "City": "KENNETT",
+        "State": "MO",
+        "zip": 63857,
+        "CR/RN/Day": 0.56
+    },
+    {
+        "est_ID": 310,
+        "est_name": "CAMELOT NURSING AND REHABILITATION CENTER",
+        "Street": "705 GRAND CANYON DRIVE",
+        "City": "FARMINGTON",
+        "State": "MO",
+        "zip": 63640,
+        "CR/RN/Day": 0.7
+    },
+    {
+        "est_ID": 311,
+        "est_name": "BENCHMARK HEALTHCARE OF HARRISONVILLE",
+        "Street": "2203 EAST MECHANIC",
+        "City": "HARRISONVILLE",
+        "State": "MO",
+        "zip": 64701,
+        "CR/RN/Day": 0.28
+    },
+    {
+        "est_ID": 312,
+        "est_name": "BUFFALO PRAIRIE CARE CENTER",
+        "Street": "PO BOX 1300 / 631 WEST MAIN STREET",
+        "City": "BUFFALO",
+        "State": "MO",
+        "zip": 65622,
+        "CR/RN/Day": 0.37
+    },
+    {
+        "est_ID": 313,
+        "est_name": "CASSVILLE HEALTH CARE AND REHAB",
+        "Street": "1300 COUNTY FARM ROAD",
+        "City": "CASSVILLE",
+        "State": "MO",
+        "zip": 65625,
+        "CR/RN/Day": 0.55
+    },
+    {
+        "est_ID": 314,
+        "est_name": "COMMUNITY CARE CENTER OF LEMAY INC",
+        "Street": "9353 SOUTH  BROADWAY",
+        "City": "SAINT LOUIS",
+        "State": "MO",
+        "zip": 63125,
+        "CR/RN/Day": 0.58
+    },
+    {
+        "est_ID": 315,
+        "est_name": "COMMUNITY SPRINGS HEALTHCARE FACILITY",
+        "Street": "400 EAST HOSPITAL ROAD",
+        "City": "EL DORADO SPRINGS",
+        "State": "MO",
+        "zip": 64744,
+        "CR/RN/Day": 0.5
+    },
+    {
+        "est_ID": 316,
+        "est_name": "Gest_IDEON CARE CENTER",
+        "Street": "FOURTH & LUNBECK, PO BOX 197",
+        "City": "Gest_IDEON",
+        "State": "MO",
+        "zip": 63848,
+        "CR/RN/Day": 0.26
+    },
+    {
+        "est_ID": 317,
+        "est_name": "MALDEN NURSING & REHAB",
+        "Street": "1209 STOKELAN",
+        "City": "MALDEN",
+        "State": "MO",
+        "zip": 63863,
+        "CR/RN/Day": 0.26
+    },
+    {
+        "est_ID": 318,
+        "est_name": "POTOSI MANOR, INC",
+        "Street": "307 SOUTH HIGHWAY 21",
+        "City": "POTOSI",
+        "State": "MO",
+        "zip": 63664,
+        "CR/RN/Day": 0.3
+    },
+    {
+        "est_ID": 319,
+        "est_name": "RIVERDELL CARE CENTER",
+        "Street": "1121 11TH STREET",
+        "City": "BOONVILLE",
+        "State": "MO",
+        "zip": 65233,
+        "CR/RN/Day": 0.28
+    },
+    {
+        "est_ID": 320,
+        "est_name": "RIVERVIEW, THE",
+        "Street": "5500 SOUTH BROADWAY",
+        "City": "SAINT LOUIS",
+        "State": "MO",
+        "zip": 63111,
+        "CR/RN/Day": 0.38
+    },
+    {
+        "est_ID": 321,
+        "est_name": "LACOBA HOMES INC",
+        "Street": "850 HIGHWAY 60, PO BOX 885",
+        "City": "MONETT",
+        "State": "MO",
+        "zip": 65708,
+        "CR/RN/Day": 0.83
+    },
+    {
+        "est_ID": 322,
+        "est_name": "LIFE CARE CENTER OF SULLIVAN",
+        "Street": "875 DUNSFORD DRIVE",
+        "City": "SULLIVAN",
+        "State": "MO",
+        "zip": 63080,
+        "CR/RN/Day": 0.62
+    },
+    {
+        "est_ID": 323,
+        "est_name": "BENCHMARK HEALTHCARE OF FESTUS INC",
+        "Street": "12827 HIGHWAY TT",
+        "City": "FESTUS",
+        "State": "MO",
+        "zip": 63028,
+        "CR/RN/Day": 0.51
+    },
+    {
+        "est_ID": 324,
+        "est_name": "SARCOXIE NURSING CENTER",
+        "Street": "1505 MINER, PO BOX 248",
+        "City": "SARCOXIE",
+        "State": "MO",
+        "zip": 64862,
+        "CR/RN/Day": 0.46
+    },
+    {
+        "est_ID": 325,
+        "est_name": "BENCHMARK HEALTHCARE OF LOMA LINDA",
+        "Street": "1600 EAST ROLLINS",
+        "City": "MOBERLY",
+        "State": "MO",
+        "zip": 65270,
+        "CR/RN/Day": 0.44
+    },
+    {
+        "est_ID": 326,
+        "est_name": "HILL CREST MANOR",
+        "Street": "801 SOUTH COLBY",
+        "City": "HAMILTON",
+        "State": "MO",
+        "zip": 64644,
+        "CR/RN/Day": 0.4
+    },
+    {
+        "est_ID": 327,
+        "est_name": "HERITAGE GARDENS OF SENATH",
+        "Street": "300 EAST HORNBECK STREET",
+        "City": "SENATH",
+        "State": "MO",
+        "zip": 63876,
+        "CR/RN/Day": 0.31
+    },
+    {
+        "est_ID": 328,
+        "est_name": "COUNTRY VIEW NURSING FACILITY, INC",
+        "Street": "2106 WEST MAIN, PO BOX 330",
+        "City": "BOWLING GREEN",
+        "State": "MO",
+        "zip": 63334,
+        "CR/RN/Day": 0.59
+    },
+    {
+        "est_ID": 329,
+        "est_name": "GERALD NURSING AND REHAB",
+        "Street": "533 CANAAN ROAD, PO BOX 180",
+        "City": "GERALD",
+        "State": "MO",
+        "zip": 63037,
+        "CR/RN/Day": 0.55
+    },
+    {
+        "est_ID": 330,
+        "est_name": "CARRIAGE SQUARE HEALTH CARE CENTER",
+        "Street": "4009 GENE FIELD ROAD",
+        "City": "SAINT JOSEPH",
+        "State": "MO",
+        "zip": 64506,
+        "CR/RN/Day": 0.25
+    },
+    {
+        "est_ID": 331,
+        "est_name": "MARK TWAIN MANOR",
+        "Street": "11988 MARK TWAIN LANE",
+        "City": "BRest_IDGETON",
+        "State": "MO",
+        "zip": 63044,
+        "CR/RN/Day": 0.48
+    },
+    {
+        "est_ID": 332,
+        "est_name": "CHRISTIAN HEALTH AND REHABILITATION OF REPUBLIC",
+        "Street": "901 EAST HWY 174",
+        "City": "REPUBLIC",
+        "State": "MO",
+        "zip": 65738,
+        "CR/RN/Day": 0.23
+    },
+    {
+        "est_ID": 333,
+        "est_name": "MCLARNEY MANOR",
+        "Street": "116 EAST PRATT, PO BOX 129",
+        "City": "BROOKFIELD",
+        "State": "MO",
+        "zip": 64628,
+        "CR/RN/Day": 0.43
+    },
+    {
+        "est_ID": 334,
+        "est_name": "SUNSET HOME",
+        "Street": "1201 S. POLK",
+        "City": "MAYSVILLE",
+        "State": "MO",
+        "zip": 64469,
+        "CR/RN/Day": 0.4
+    },
+    {
+        "est_ID": 335,
+        "est_name": "OAK PARK NURSING CENTER",
+        "Street": "6637 BERTHOLD AVENUE",
+        "City": "SAINT LOUIS",
+        "State": "MO",
+        "zip": 63139,
+        "CR/RN/Day": 0.39
+    },
+    {
+        "est_ID": 336,
+        "est_name": "STONEBRest_IDGE MARYLAND HEIGHTS",
+        "Street": "2963 DODDRest_IDGE AVENUE",
+        "City": "MARYLAND HEIGHTS",
+        "State": "MO",
+        "zip": 63043,
+        "CR/RN/Day": 0.39
+    },
+    {
+        "est_ID": 337,
+        "est_name": "DIXON NURSING & REHAB",
+        "Street": "403 EAST 10TH STREET",
+        "City": "DIXON",
+        "State": "MO",
+        "zip": 65459,
+        "CR/RN/Day": 0.56
+    },
+    {
+        "est_ID": 338,
+        "est_name": "BELLEFONTAINE GARDENS NURSING & REHAB",
+        "Street": "9500 BELLEFONTAINE ROAD",
+        "City": "SAINT LOUIS",
+        "State": "MO",
+        "zip": 63137,
+        "CR/RN/Day": 0.29
+    },
+    {
+        "est_ID": 339,
+        "est_name": "GASCONADE MANOR NURSING HOME",
+        "Street": "1910 NURSING HOME ROAD, PO BOX 520",
+        "City": "OWENSVILLE",
+        "State": "MO",
+        "zip": 65066,
+        "CR/RN/Day": 0.27
+    },
+    {
+        "est_ID": 340,
+        "est_name": "RATLIFF CARE CENTER",
+        "Street": "717 NORTH SPRIGG",
+        "City": "CAPE GIRARDEAU",
+        "State": "MO",
+        "zip": 63701,
+        "CR/RN/Day": 0.54
+    },
+    {
+        "est_ID": 341,
+        "est_name": "BENCHMARK HEALTHCARE OF WILLOWBROOKE",
+        "Street": "2600 REDMAN ROAD",
+        "City": "SAINT LOUIS",
+        "State": "MO",
+        "zip": 63136,
+        "CR/RN/Day": 0.4
+    },
+    {
+        "est_ID": 342,
+        "est_name": "ABBEY CARE CENTER, THE",
+        "Street": "5303 BERMUDA ROAD",
+        "City": "SAINT LOUIS",
+        "State": "MO",
+        "zip": 63121,
+        "CR/RN/Day": 0.26
+    },
+    {
+        "est_ID": 343,
+        "est_name": "ACKERT PARK SKILLED CARE COMMUNITY",
+        "Street": "894 LELAND AVENUE",
+        "City": "UNIVERSITY CITY",
+        "State": "MO",
+        "zip": 63130,
+        "CR/RN/Day": 0.52
+    },
+    {
+        "est_ID": 344,
+        "est_name": "TRI-COUNTY CARE CENTER",
+        "Street": "601 NORTH GALLOWAY ROAD",
+        "City": "VANDALIA",
+        "State": "MO",
+        "zip": 63382,
+        "CR/RN/Day": 0.39
+    },
+    {
+        "est_ID": 345,
+        "est_name": "BLUE RIVER REHABILITATION CENTER",
+        "Street": "10425 CHESTNUT DR",
+        "City": "KANSAS CITY",
+        "State": "MO",
+        "zip": 64137,
+        "CR/RN/Day": 0.36
+    },
+    {
+        "est_ID": 346,
+        "est_name": "BIG SPRING CARE CENTER",
+        "Street": "202 EAST MILL STREET",
+        "City": "HUMANSVILLE",
+        "State": "MO",
+        "zip": 65674,
+        "CR/RN/Day": 0.48
+    },
+    {
+        "est_ID": 347,
+        "est_name": "KATY MANOR",
+        "Street": "205 PROSPECT, PO BOX 8",
+        "City": "PILOT GROVE",
+        "State": "MO",
+        "zip": 65276,
+        "CR/RN/Day": 0.32
+    },
+    {
+        "est_ID": 348,
+        "est_name": "GIBBS CARE CENTER",
+        "Street": "311 NORTH SPRING STREET",
+        "City": "STEELVILLE",
+        "State": "MO",
+        "zip": 65565,
+        "CR/RN/Day": 0.53
+    },
+    {
+        "est_ID": 349,
+        "est_name": "LIFE CARE CENTER OF WAYNESVILLE",
+        "Street": "700 BIRCH LANE",
+        "City": "WAYNESVILLE",
+        "State": "MO",
+        "zip": 65583,
+        "CR/RN/Day": 0.5
+    },
+    {
+        "est_ID": 350,
+        "est_name": "WOODLAND HILLS-A STONEBRest_IDGE COMMUNITY",
+        "Street": "702 HIGHWAY 34 WEST",
+        "City": "MARBLE HILL",
+        "State": "MO",
+        "zip": 63764,
+        "CR/RN/Day": 0.4
+    },
+    {
+        "est_ID": 351,
+        "est_name": "CHRISTIAN HEALTH AND REHABILITATION OF NIXA",
+        "Street": "1104 NORTH MAIN STREET",
+        "City": "NIXA",
+        "State": "MO",
+        "zip": 65714,
+        "CR/RN/Day": 0.39
+    },
+    {
+        "est_ID": 352,
+        "est_name": "BENCHMARK HEALTHCARE OF WILDWOOD",
+        "Street": "1441 CHARIC DRIVE",
+        "City": "WILDWOOD",
+        "State": "MO",
+        "zip": 63021,
+        "CR/RN/Day": 0.46
+    },
+    {
+        "est_ID": 353,
+        "est_name": "HILLVIEW NURSING & REHAB",
+        "Street": "220 O'ROURKE DRIVE, PO BOX 1310",
+        "City": "PLATTE CITY",
+        "State": "MO",
+        "zip": 64079,
+        "CR/RN/Day": 0.55
+    },
+    {
+        "est_ID": 354,
+        "est_name": "GOWER CONVALESCENT CENTER, INC",
+        "Street": "PO BOX 170, 323 SOUTH HIGHWAY 169",
+        "City": "GOWER",
+        "State": "MO",
+        "zip": 64454,
+        "CR/RN/Day": 0.44
+    },
+    {
+        "est_ID": 355,
+        "est_name": "POINT LOOKOUT NURSING & REHAB",
+        "Street": "11103 HISTORIC HWY 165",
+        "City": "HOLLISTER",
+        "State": "MO",
+        "zip": 65672,
+        "CR/RN/Day": 0.26
+    },
+    {
+        "est_ID": 356,
+        "est_name": "RIVERVIEW AT THE PARK CARE AND REHABILITATION CTR",
+        "Street": "21997 WHITE SANDS RD",
+        "City": "SAINTE GENEVIEVE",
+        "State": "MO",
+        "zip": 63670,
+        "CR/RN/Day": 0.52
+    },
+    {
+        "est_ID": 357,
+        "est_name": "WORTH COUNTY CONVALESCENT CENTER",
+        "Street": "503 EAST FOURTH",
+        "City": "GRANT CITY",
+        "State": "MO",
+        "zip": 64456,
+        "CR/RN/Day": 0.66
+    },
+    {
+        "est_ID": 358,
+        "est_name": "MAYWOOD TERRACE LIVING CENTER",
+        "Street": "10300 EAST TRUMAN RD",
+        "City": "INDEPENDENCE",
+        "State": "MO",
+        "zip": 64052,
+        "CR/RN/Day": 0.32
+    },
+    {
+        "est_ID": 359,
+        "est_name": "MARK TWAIN MANOR",
+        "Street": "11988 MARK TWAIN LANE",
+        "City": "BRest_IDGETON",
+        "State": "MO",
+        "zip": 63044,
+        "CR/RN/Day": 0.53
+    },
+    {
+        "est_ID": 360,
+        "est_name": "JOHN KNOX VILLAGE CARE CENTER",
+        "Street": "600 NW PRYOR ROAD",
+        "City": "LEES SUMMIT",
+        "State": "MO",
+        "zip": 64081,
+        "CR/RN/Day": 0.75
+    },
+    {
+        "est_ID": 361,
+        "est_name": "JEFFERSON HEALTH CARE",
+        "Street": "615 SW OLDHAM PARKWAY",
+        "City": "LEES SUMMIT",
+        "State": "MO",
+        "zip": 64081,
+        "CR/RN/Day": 0.38
+    },
+    {
+        "est_ID": 362,
+        "est_name": "RIVER OAKS CARE CENTER",
+        "Street": "1001 NORTH WALNUT",
+        "City": "STEELE",
+        "State": "MO",
+        "zip": 63877,
+        "CR/RN/Day": 0.41
+    },
+    {
+        "est_ID": 363,
+        "est_name": "CLARK COUNTY NURSING HOME",
+        "Street": "1260 NORTH JOHNSON STREET",
+        "City": "KAHOKA",
+        "State": "MO",
+        "zip": 63445,
+        "CR/RN/Day": 0.56
+    },
+    {
+        "est_ID": 364,
+        "est_name": "WARRENTON MANOR",
+        "Street": "65 STATE HWY AA, PO BOX 280",
+        "City": "WARRENTON",
+        "State": "MO",
+        "zip": 63383,
+        "CR/RN/Day": 0.33
+    },
+    {
+        "est_ID": 365,
+        "est_name": "SCOTLAND COUNTY CARE CENTER",
+        "Street": "434 E SIGLER AVENUE",
+        "City": "MEMPHIS",
+        "State": "MO",
+        "zip": 63555,
+        "CR/RN/Day": 0.44
+    },
+    {
+        "est_ID": 366,
+        "est_name": "EXCELSIOR SPRINGS NURSING & REHAB",
+        "Street": "1003 MEADOWLARK LANE",
+        "City": "EXCELSIOR SPRINGS",
+        "State": "MO",
+        "zip": 64024,
+        "CR/RN/Day": 0.59
+    },
+    {
+        "est_ID": 367,
+        "est_name": "RICHLAND CARE CENTER INC",
+        "Street": "400 TRI-COUNTY LANE,  PO BOX 756",
+        "City": "RICHLAND",
+        "State": "MO",
+        "zip": 65556,
+        "CR/RN/Day": 0.37
+    },
+    {
+        "est_ID": 368,
+        "est_name": "GAINESVILLE HEALTH CARE CENTER",
+        "Street": "403 WEST HIGHWAY 160, PO BOX 628",
+        "City": "GAINESVILLE",
+        "State": "MO",
+        "zip": 65655,
+        "CR/RN/Day": 0.58
+    },
+    {
+        "est_ID": 369,
+        "est_name": "FOUNTAINBLEAU NURSING CENTER",
+        "Street": "1349 HIGHWAY 61, PO BOX 700",
+        "City": "FESTUS",
+        "State": "MO",
+        "zip": 63028,
+        "CR/RN/Day": 0.4
+    },
+    {
+        "est_ID": 370,
+        "est_name": "BENCHMARK HEALTHCARE OF MONETT",
+        "Street": "410 WEST BENTON",
+        "City": "MONETT",
+        "State": "MO",
+        "zip": 65708,
+        "CR/RN/Day": 0.39
+    },
+    {
+        "est_ID": 371,
+        "est_name": "NORTHVIEW VILLAGE",
+        "Street": "2415 NORTH KINGSHIGHWAY",
+        "City": "SAINT LOUIS",
+        "State": "MO",
+        "zip": 63113,
+        "CR/RN/Day": 0.33
+    },
+    {
+        "est_ID": 372,
+        "est_name": "LAWSON MANOR & REHAB",
+        "Street": "210 WEST 8TH TERRACE",
+        "City": "LAWSON",
+        "State": "MO",
+        "zip": 64062,
+        "CR/RN/Day": 0.45
+    },
+    {
+        "est_ID": 373,
+        "est_name": "LEWIS COUNTY NURSING HOME DISTRICT",
+        "Street": "PO BOX 266, 17528 STATE HIGHWAY 81",
+        "City": "CANTON",
+        "State": "MO",
+        "zip": 63435,
+        "CR/RN/Day": 0.54
+    },
+    {
+        "est_ID": 374,
+        "est_name": "LA VERNA VILLAGE NURSING HOME",
+        "Street": "904 HALL AVENUE, PO BOX 279",
+        "City": "SAVANNAH",
+        "State": "MO",
+        "zip": 64485,
+        "CR/RN/Day": 0.6
+    },
+    {
+        "est_ID": 375,
+        "est_name": "NHC HEALTHCARE, WEST PLAINS",
+        "Street": "211 DAVIS DRIVE, PO BOX 497",
+        "City": "WEST PLAINS",
+        "State": "MO",
+        "zip": 65775,
+        "CR/RN/Day": 0.81
+    },
+    {
+        "est_ID": 376,
+        "est_name": "MT VERNON PLACE CARE CENTER, INC",
+        "Street": "1425  SOUTH LANDRUM",
+        "City": "MOUNT VERNON",
+        "State": "MO",
+        "zip": 65712,
+        "CR/RN/Day": 0.5
+    },
+    {
+        "est_ID": 377,
+        "est_name": "MAPLE LAWN NURSING HOME",
+        "Street": "1410 WEST LINE STREET, PO BOX 232",
+        "City": "PALMYRA",
+        "State": "MO",
+        "zip": 63461,
+        "CR/RN/Day": 0.47
+    },
+    {
+        "est_ID": 378,
+        "est_name": "LOCH HAVEN",
+        "Street": "701 SUNSET HILLS DR, PO BOX 187",
+        "City": "MACON",
+        "State": "MO",
+        "zip": 63552,
+        "CR/RN/Day": 0.93
+    },
+    {
+        "est_ID": 379,
+        "est_name": "HARRISONVILLE HEALTHCARE",
+        "Street": "307 EAST SOUTH STREET",
+        "City": "HARRISONVILLE",
+        "State": "MO",
+        "zip": 64701,
+        "CR/RN/Day": 0.43
+    },
+    {
+        "est_ID": 380,
+        "est_name": "SHADY LAWN NURSING HOME",
+        "Street": "13277 STATE RT D,  PO BOX 277",
+        "City": "SAVANNAH",
+        "State": "MO",
+        "zip": 64485,
+        "CR/RN/Day": 0.46
+    },
+    {
+        "est_ID": 381,
+        "est_name": "BENCHMARK HEALTHCARE OF ST CHARLES",
+        "Street": "2840 WEST CLAY",
+        "City": "SAINT CHARLES",
+        "State": "MO",
+        "zip": 63301,
+        "CR/RN/Day": 0.34
+    },
+    {
+        "est_ID": 382,
+        "est_name": "HERITAGE GARDENS OF SIKESTON",
+        "Street": "3144 STATE HIGHWAY FF",
+        "City": "SIKESTON",
+        "State": "MO",
+        "zip": 63801,
+        "CR/RN/Day": 0.39
+    },
+    {
+        "est_ID": 383,
+        "est_name": "MOORE-FEW CARE CENTER",
+        "Street": "901 SOUTH  ADAMS",
+        "City": "NEVADA",
+        "State": "MO",
+        "zip": 64772,
+        "CR/RN/Day": 0.52
+    },
+    {
+        "est_ID": 384,
+        "est_name": "CLINTON CARE AND REHAB CENTER",
+        "Street": "253 EAST HIGHWAY 116",
+        "City": "PLATTSBURG",
+        "State": "MO",
+        "zip": 64477,
+        "CR/RN/Day": 0.9
+    },
+    {
+        "est_ID": 385,
+        "est_name": "OZARKS METHODIST MANOR, THE",
+        "Street": "205 SOUTH COLLEGE,  PO BOX 403",
+        "City": "MARIONVILLE",
+        "State": "MO",
+        "zip": 65705,
+        "CR/RN/Day": 0.69
+    },
+    {
+        "est_ID": null,
+        "est_name": "",
+        "Street": "",
+        "City": "",
+        "State": "",
+        "zip": null,
+        "CR/RN/Day": null
+    }
+]

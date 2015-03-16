@@ -19,29 +19,63 @@ L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
 	var svg = d3.select("#chart").select("svg"),
 	g = svg.append("g");
 
-// these are where the nursing homes are, in order 
-// need to append info to them
 
-	d3.json("js/hack-location.json", function(collection) {
-		/* Add a LatLng object to each item in the dataset */
-		collection.objects.forEach(function(d) {
-			d.LatLng = new L.LatLng(d.circle.coordinates[0],
-									d.circle.coordinates[1])
-		})
+// navigational things 
 
-		var feature = g.selectAll("circle")
-			.data(collection.objects)
-			.enter().append("circle")
-			.style("stroke", "black")  
-			.style("opacity", .6) 
-			.style("fill", "red")
-			.attr("r", 5);  
+	d3.selection.prototype.moveToFront = function() {
+    return this.each(function() {
+        this.parentNode.appendChild(this);
+    });
+};
 
-// ok so we know where the nursing homes are ... 
+d3.selection.prototype.moveToBack = function() {
+    return this.each(function() {
+        var firstChild = this.parentNode.firstChild;
+        if (firstChild) {
+            this.parentNode.insertBefore(this, firstChild);
+        }
+    });
+};
+
+// ok now these should be what - not where - the data is 
+// this is an ajax call to cross-ref my data with location eventually 
+
+d3.json("js/nursinghours.json", function(data) {
+
+	var allNursingHours = data.dataset.row;
+
+	var nested = {}; 
+
+	var hoursArray
 
 
+// these are what I'm looking for specifically 
+
+$.each(allNursingHours, function(i, item) {
 
 
+		if (!nested[item.est_ID]) {
+			nested[item.est_ID] = {
+				"id" : item.est_ID,
+				"name" : item.est_name,
+				"address" : item.Street+", "+item.City+", "+item.State+" "+item.zip,
+				"RNtime" : item.CR/RN/Day
+			}
+		}
+
+	
+		nested[item.est_ID].violations.push(item);
+
+	});
+
+	$.each(nested, function(i, item) {
+		hoursArray.push(item);
+	});
+
+	hoursArray.forEach(function(d) {
+		var coord = locations[d.id];
+		d.LatLng = new L.LatLng(coord.lat, coord.lon);
+	});
 
 
 // these update on re-zoom 
